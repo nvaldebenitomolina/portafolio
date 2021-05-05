@@ -40,8 +40,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'index',
+    #'channels',
     'bootstrap4',
+    'django_plotly_dash.apps.DjangoPlotlyDashConfig',
+    'dpd_static_support',
 ]
 
 MIDDLEWARE = [
@@ -123,3 +125,58 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
 STATIC_URL = '/static/'
+
+# ---------- Add Django Dash start --------------------------------
+
+# Adding ASGI Application
+ASGI_APPLICATION = 'portafolio.routing.application'
+
+# 
+
+# To use home.html as default home page
+#LOGIN_REDIRECT_URL = 'home'
+#LOGOUT_REDIRECT_URL = 'home'
+
+# Define folder location of 'static' folder
+#STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+
+# 'django_dash': django app name
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR,  'static'),
+    ]
+
+# Static content of Plotly components that should
+# be handled by the Django staticfiles infrastructure
+
+PLOTLY_COMPONENTS = [
+    'dash_core_components',
+    'dash_html_components',
+    'dash_bootstrap_components',
+    'dash_renderer',
+    'dpd_components',
+    'dpd_static_support',
+]
+
+# Staticfiles finders for locating dash app assets and related files (Dash static files)
+
+STATICFILES_FINDERS = [
+
+    'django.contrib.staticfiles.finders.FileSystemFinder',
+    'django.contrib.staticfiles.finders.AppDirectoriesFinder',
+
+    'django_plotly_dash.finders.DashAssetFinder',
+    'django_plotly_dash.finders.DashComponentFinder',
+    'django_plotly_dash.finders.DashAppDirectoryFinder',
+]
+
+# Channels config, to use channel layers
+
+CHANNEL_LAYERS = {
+    'default': {
+        'BACKEND': 'channels_redis.core.RedisChannelLayer',
+        'CONFIG': {
+            'hosts': [('127.0.0.1', 6379),],
+        },
+    },
+}
+# ---------- Add Django Dash end --------------------------------
