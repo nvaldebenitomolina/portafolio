@@ -1,11 +1,12 @@
 from plotly.offline import plot
-from plotly.graph_objs import Scatter
+from plotly.graph_objs import Scatter, Bar
+import pandas as pd
+
 
 def plot1():
-    x_data = [0,1,2,3]
-    y_data = [x**2 for x in x_data]
-    plot_div = plot([Scatter(x=x_data, y=y_data,
-                        mode='lines', name='test',
-                        opacity=0.8, marker_color='green')],
-                output_type='div')
+    df = pd.read_csv('/home/nvaldebenito/Documentos/curriculum/portafolio/static/assets/data/project/project3/data_filter.csv')
+    print(df['category'].value_counts().values)
+    #plot_div = plot([Bar(x=df['category'].value_counts().index, y=df['category'].value_counts().values, offset='div')])
+    final_data = [Bar(x=df['category'].value_counts().index, y=df['category'].value_counts().values)]
+    plot_div = plot([Bar(x=df['category'].value_counts().index, y=df['category'].value_counts().values)], output_type='div')
     return plot_div

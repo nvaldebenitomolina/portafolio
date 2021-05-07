@@ -37,17 +37,39 @@
             </div>
         </div>
     </nav>
+    <header class="masthead bg-primary text-white text-center" >
+		<div class="container d-flex align-items-center flex-column">
+			<!-- Masthead Avatar Image-->
+			<!-- <img class="masthead-avatar mb-5" src="{% static 'assets/img/avataaars.svg' %}" alt="..." /> -->
+			<!-- Masthead Heading-->
+			<h1 class="masthead-heading text-uppercase mb-0">Segmentación de usuarios</h1>
+			<!-- Icon Divider-->
+			<div class="divider-custom divider-light">
+				<div class="divider-custom-line"></div>
+				<div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+				<div class="divider-custom-line"></div>
+			</div>
+			<!-- Masthead Subheading-->
+			<p class="masthead-subheading font-weight-light mb-0"> Data Scientist</p>
+		</div>
+	</header>
 	<main style="padding: 60px;">
-		<h1>Segmentación de usuarios</h1>
 		<!-- If successful login -->
 		<h2>Sobre los datos</h2>
-		<p> Estos datos son recopilados diariamente a través de un formulario </p>
-		<h2>Modelos</h2>
-		<p>	Como es un problema de clusterización se utilizarán dos modelos de prueba </p>
+		<p> Estos datos son recopilados diariamente a través de un formulario web, con la finalidad de poder conocer quienes utilizan los datos disponibles.
+            Entre la información que deben entregar es el área de trabajo, tipo de uso de los datos, tipo de institución, y categoría de los datos descargados.
+            La cantidad de fila de los datos: 2273. Al ser solo 4 atributos no trabajaremos con PCA, porque no es necesario reducir dimensionalidad.</p>
+		<h2>Modelación</h2>
+        <p>	En este problema primero trabajaremos con dos modelos de clusterización, y luego haremos un modelo de clasificación utilizando como variable objetivo los
+            clusters encontrados, de esta forma podremos verificar si los datos están relacionados. Los modelos que utilizaremos son:</p>
         <ul>
             <li>K-means</li>
             <li>DBSCan</li>
+            <li>Random Forest Classifier</li>
         </ul>
+        <p>Al trabajar con K-means, encontramos el valor óptimo de clusters utilizando el método elbow, y trabajamos con el indice de silhouette, de -1 a 1, 
+            mientras mas grande es este valor mejor son los resultados. La gráfica de los resultados se encuentran a continuación:
+        </p>
 
 
 		<!-- Connect Plotly Dash with Django by ID mentioned in dash_app_code.py-->

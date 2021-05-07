@@ -1,0 +1,1711 @@
+,category,area,Type of use,Type of institution
+0,precipitation,Mining,Data Analysis,Center Research
+1,max/min temperature,Meteorology,Data Analysis,Universities
+3,max/min temperature,Meteorology,Research,Universities
+10,precipitation,Meteorology,Data Analysis,Universities
+12,precipitation,Meteorology,Research,Universities
+15,precipitation,Ecology,Research,Universities
+16,max/min temperature,Forestry,Research,Universities
+21,flow,Agro/Agroindustry/Irrigation,Data Analysis,Universities
+22,precipitation,Meteorology,Research,Universities
+23,max/min temperature,Meteorology,Research,Universities
+27,precipitation,Mathematics/Statistics/Modeling,Teaching,Universities
+34,precipitation,Hidrology,Engineering projects,Private sector (companies)
+35,temperature,Fishing/Aquaculture,Research,Trade-union associations and other organizations
+40,precipitation,Meteorology,Research,Private sector (companies)
+41,temperature,Meteorology,Research,Private sector (companies)
+42,temperature,Meteorology,Engineering projects,Private sector (companies)
+43,flow,Environmental,Engineering projects,Universities
+44,precipitation,Environmental,Engineering projects,Universities
+45,max/min temperature,Environmental,Engineering projects,Universities
+46,temperature,Meteorology,Research,Private sector (companies)
+47,temperature,Environmental,Engineering projects,Universities
+48,global simulation,Environmental,Engineering projects,Universities
+49,global simulation,Environmental,Data Analysis,Universities
+50,precipitation,Environmental,Research,Universities
+51,precipitation,Environmental,Data Analysis,Private sector (companies)
+53,temperature,Environmental,Data Analysis,Universities
+55,precipitation,Environmental,Data Analysis,Universities
+56,flow,Hidrology,Research,Public sector (state agencies)
+57,flow,Meteorology,Research,Universities
+58,flow,Meteorology,Research,Universities
+60,max/min temperature,Meteorology,Research,Universities
+61,max/min temperature,Meteorology,Research,Universities
+62,temperature,Meteorology,Research,Universities
+65,max/min temperature,Agro/Agroindustry/Irrigation,Research,Private sector (companies)
+66,temperature,Environmental,Data Analysis,Private sector (companies)
+67,precipitation,Ecology,Research,Universities
+69,precipitation,Agro/Agroindustry/Irrigation,Research,Private sector (companies)
+71,precipitation,Environmental,Research,Private sector (companies)
+72,flow,Hidrology,Data Analysis,Public sector (state agencies)
+76,temperature,Agro/Agroindustry/Irrigation,Data Analysis,Public sector (state agencies)
+78,precipitation,Economy/Sales/trends markets,Data Analysis,Universities
+80,flow,Forestry,Data Analysis,Universities
+81,temperature,Forestry,Data Analysis,Universities
+82,precipitation,Forestry,Data Analysis,Private sector (companies)
+83,temperature,Meteorology,Research,Universities
+86,global simulation,Meteorology,Research,Universities
+87,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Public sector (state agencies)
+88,temperature,Hidrology,Engineering projects,Private sector (companies)
+89,flow,Hidrology,Research,Universities
+90,precipitation,Hidrology,Research,Universities
+91,temperature,Hidrology,Research,Universities
+93,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+94,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+95,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+96,temperature,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+98,precipitation,Agro/Agroindustry/Irrigation,Teaching,Universities
+99,flow,Hidrology,Teaching,Universities
+102,precipitation,Meteorology,Data Analysis,Center Research
+104,temperature,Meteorology,Data Analysis,Center Research
+105,flow,Environmental,Research,Center Research
+106,precipitation,Environmental,Research,Center Research
+107,max/min temperature,Environmental,Research,Center Research
+111,precipitation,Communications,Data Analysis,Trade-union associations and other organizations
+112,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+115,temperature,Agro/Agroindustry/Irrigation,Data Analysis,Universities
+116,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+118,precipitation,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+128,temperature,Agro/Agroindustry/Irrigation,Data Analysis,Universities
+129,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Universities
+130,temperature,Hidrology,Data Analysis,Universities
+131,global simulation,Meteorology,Research,Universities
+132,precipitation,Meteorology,Research,Universities
+133,precipitation,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+134,temperature,Economy/Sales/trends markets,Research,Private sector (companies)
+136,precipitation,Meteorology,Teaching,Universities
+137,precipitation,Meteorology,Teaching,Universities
+140,temperature,Agro/Agroindustry/Irrigation,Research,Universities
+141,precipitation,Environmental,Research,Universities
+142,temperature,Environmental,Research,Universities
+143,precipitation,Health,Data Analysis,Universities
+145,global simulation,Energy,Data Analysis,Universities
+147,precipitation,Agro/Agroindustry/Irrigation,Teaching,Universities
+148,temperature,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+151,temperature,Meteorology,Data Analysis,Universities
+154,precipitation,Building/Architecture,Engineering projects,Private sector (companies)
+155,max/min temperature,Meteorology,Teaching,Universities
+156,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+157,precipitation,Hidrology,Data Analysis,Private sector (companies)
+160,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+161,precipitation,Environmental,Data Analysis,Private sector (companies)
+162,precipitation,Meteorology,Data Analysis,Universities
+166,flow,Hidrology,Research,Universities
+167,precipitation,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+170,precipitation,Agro/Agroindustry/Irrigation,Engineering projects,Private sector (companies)
+171,max/min temperature,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+173,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Universities
+174,precipitation,Environmental,Research,Center Research
+175,precipitation,Meteorology,Research,Public sector (state agencies)
+178,precipitation,Meteorology,Data Analysis,Universities
+179,precipitation,Building/Architecture,Engineering projects,Private sector (companies)
+180,max/min temperature,Building/Architecture,Engineering projects,Private sector (companies)
+181,precipitation,Hidrology,Data Analysis,Universities
+182,precipitation,Building/Architecture,Research,Universities
+183,max/min temperature,Agro/Agroindustry/Irrigation,Data Analysis,Universities
+184,flow,Hidrology,Data Analysis,Universities
+185,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+186,precipitation,Forestry,Data Analysis,Public sector (state agencies)
+187,max/min temperature,Meteorology,Data Analysis,Universities
+188,precipitation,Hidrology,Data Analysis,Private sector (companies)
+189,precipitation,Hidrology,Research,Universities
+190,temperature,Meteorology,Data Analysis,Universities
+192,precipitation,Ecology,Research,Universities
+193,flow,Forestry,Data Analysis,Public sector (state agencies)
+194,precipitation,Forestry,Data Analysis,Public sector (state agencies)
+195,precipitation,Forestry,Data Analysis,Public sector (state agencies)
+196,precipitation,Forestry,Data Analysis,Public sector (state agencies)
+197,max/min temperature,Forestry,Data Analysis,Public sector (state agencies)
+199,precipitation,Energy,Data Analysis,Universities
+200,precipitation,Mathematics/Statistics/Modeling,Data Analysis,Universities
+202,precipitation,Meteorology,Engineering projects,Public sector (state agencies)
+203,precipitation,Economy/Sales/trends markets,Data Analysis,Public sector (state agencies)
+208,precipitation,Ecology,Data Analysis,Universities
+209,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Public sector (state agencies)
+210,precipitation,Economy/Sales/trends markets,Research,Universities
+216,regional simulation,Environmental,Teaching,Universities
+217,flow,Hidrology,Data Analysis,Private sector (companies)
+218,max/min temperature,Environmental,Data Analysis,Private sector (companies)
+219,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+220,precipitation,Meteorology,Data Analysis,Public sector (state agencies)
+221,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Public sector (state agencies)
+222,flow,Mining,Teaching,Center Research
+223,precipitation,Meteorology,Data Analysis,Private sector (companies)
+227,precipitation,Economy/Sales/trends markets,Data Analysis,Universities
+228,precipitation,Sanitary Services,Engineering projects,Private sector (companies)
+230,precipitation,Hidrology,Research,Universities
+231,precipitation,Energy,Data Analysis,Private sector (companies)
+232,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+233,precipitation,Building/Architecture,Data Analysis,Private sector (companies)
+236,precipitation,Agro/Agroindustry/Irrigation,Engineering projects,Private sector (companies)
+238,flow,Ecology,Research,Universities
+239,precipitation,Hidrology,Data Analysis,Universities
+241,precipitation,Forestry,Data Analysis,Universities
+242,flow,Building/Architecture,Data Analysis,Private sector (companies)
+243,precipitation,Hidrology,Data Analysis,Private sector (companies)
+244,precipitation,Meteorology,Data Analysis,Universities
+245,precipitation,Hidrology,Research,Universities
+246,flow,Meteorology,Research,Center Research
+247,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Public sector (state agencies)
+248,max/min temperature,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+249,precipitation,Hidrology,Data Analysis,Universities
+251,flow,Hidrology,Data Analysis,Universities
+252,precipitation,Hidrology,Research,Universities
+253,max/min temperature,Hidrology,Research,Universities
+254,precipitation,Meteorology,Data Analysis,Universities
+255,precipitation,Agro/Agroindustry/Irrigation,Research,Universities
+256,precipitation,Building/Architecture,Data Analysis,Private sector (companies)
+257,global simulation,Meteorology,Research,Universities
+258,precipitation,Mathematics/Statistics/Modeling,Data Analysis,Universities
+260,precipitation,Agro/Agroindustry/Irrigation,Engineering projects,Private sector (companies)
+262,precipitation,Mining,Research,Universities
+264,precipitation,Meteorology,Research,Universities
+265,precipitation,Building/Architecture,Engineering projects,Private sector (companies)
+266,max/min temperature,Meteorology,Engineering projects,Private sector (companies)
+267,precipitation,Environmental,Engineering projects,Private sector (companies)
+268,precipitation,Agro/Agroindustry/Irrigation,Engineering projects,Private sector (companies)
+269,precipitation,Building/Architecture,Engineering projects,Private sector (companies)
+270,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+272,precipitation,Meteorology,Research,Universities
+273,precipitation,Meteorology,Data Analysis,Universities
+276,precipitation,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+279,precipitation,Meteorology,Data Analysis,Public sector (state agencies)
+280,precipitation,Building/Architecture,Engineering projects,Private sector (companies)
+282,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+283,precipitation,Agro/Agroindustry/Irrigation,Engineering projects,Private sector (companies)
+292,precipitation,Hidrology,Research,Private sector (companies)
+293,max/min temperature,Meteorology,Data Analysis,Private sector (companies)
+294,regional simulation,Environmental,Data Analysis,Private sector (companies)
+295,regional simulation,Environmental,Data Analysis,Private sector (companies)
+296,flow,Hidrology,Data Analysis,Universities
+297,precipitation,Meteorology,Data Analysis,Universities
+298,precipitation,Meteorology,Data Analysis,Universities
+300,global simulation,Meteorology,Data Analysis,Universities
+301,precipitation,Hidrology,Data Analysis,Public sector (state agencies)
+302,precipitation,Agro/Agroindustry/Irrigation,Research,Public sector (state agencies)
+303,precipitation,Agro/Agroindustry/Irrigation,Research,Public sector (state agencies)
+304,precipitation,Agro/Agroindustry/Irrigation,Research,Public sector (state agencies)
+305,precipitation,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+306,precipitation,Hidrology,Data Analysis,Universities
+307,precipitation,Building/Architecture,Engineering projects,Private sector (companies)
+308,precipitation,Agro/Agroindustry/Irrigation,Research,Universities
+309,precipitation,Meteorology,Research,Universities
+311,precipitation,Hidrology,Data Analysis,Private sector (companies)
+312,precipitation,Building/Architecture,Data Analysis,Private sector (companies)
+313,precipitation,Sanitary Services,Data Analysis,Private sector (companies)
+314,precipitation,Sanitary Services,Research,Center Research
+315,precipitation,Agro/Agroindustry/Irrigation,Research,Universities
+316,precipitation,Meteorology,Data Analysis,Public sector (state agencies)
+317,precipitation,Meteorology,Data Analysis,Public sector (state agencies)
+318,precipitation,Agro/Agroindustry/Irrigation,Engineering projects,Private sector (companies)
+319,precipitation,Mining,Data Analysis,Private sector (companies)
+321,precipitation,Building/Architecture,Data Analysis,Private sector (companies)
+324,precipitation,Hidrology,Data Analysis,Public sector (state agencies)
+325,precipitation,Hidrology,Data Analysis,Public sector (state agencies)
+327,max/min temperature,Hidrology,Data Analysis,Public sector (state agencies)
+328,max/min temperature,Energy,Data Analysis,Universities
+329,precipitation,Building/Architecture,Engineering projects,Private sector (companies)
+330,precipitation,Meteorology,Research,Universities
+331,flow,Hidrology,Research,Public sector (state agencies)
+332,precipitation,Hidrology,Research,Public sector (state agencies)
+333,precipitation,Hidrology,Research,Public sector (state agencies)
+334,precipitation,Building/Architecture,Engineering projects,Private sector (companies)
+335,max/min temperature,Hidrology,Research,Public sector (state agencies)
+336,precipitation,Agro/Agroindustry/Irrigation,Engineering projects,Private sector (companies)
+337,precipitation,Meteorology,Data Analysis,Public sector (state agencies)
+338,precipitation,Meteorology,Research,Private sector (companies)
+339,precipitation,Fishing/Aquaculture,Data Analysis,Universities
+345,precipitation,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+346,precipitation,Energy,Engineering projects,Private sector (companies)
+349,precipitation,Energy,Data Analysis,Public sector (state agencies)
+350,regional simulation,Environmental,Data Analysis,Universities
+351,precipitation,Meteorology,Data Analysis,Other educational institutions
+352,precipitation,Meteorology,Research,Private sector (companies)
+354,precipitation,Environmental,Data Analysis,Private sector (companies)
+355,regional simulation,Environmental,Data Analysis,Universities
+356,precipitation,Environmental,Data Analysis,Private sector (companies)
+357,precipitation,Energy,Data Analysis,Private sector (companies)
+358,precipitation,Environmental,Data Analysis,Universities
+360,precipitation,Meteorology,Research,Universities
+361,precipitation,Economy/Sales/trends markets,Research,Universities
+365,max/min temperature,Meteorology,Teaching,Universities
+366,precipitation,Forestry,Research,Universities
+367,max/min temperature,Economy/Sales/trends markets,Research,Private sector (companies)
+375,precipitation,Hidrology,Research,Universities
+376,precipitation,Agro/Agroindustry/Irrigation,Engineering projects,Private sector (companies)
+379,max/min temperature,Agro/Agroindustry/Irrigation,Data Analysis,Universities
+383,flow,Agro/Agroindustry/Irrigation,Engineering projects,Private sector (companies)
+385,precipitation,Hidrology,Data Analysis,Private sector (companies)
+386,precipitation,Agro/Agroindustry/Irrigation,Engineering projects,Private sector (companies)
+391,flow,Mathematics/Statistics/Modeling,Data Analysis,Universities
+392,precipitation,Meteorology,Data Analysis,Universities
+394,precipitation,Agro/Agroindustry/Irrigation,Research,Private sector (companies)
+400,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Universities
+401,precipitation,Meteorology,Teaching,Universities
+402,precipitation,Building/Architecture,Engineering projects,Private sector (companies)
+403,precipitation,Agro/Agroindustry/Irrigation,Engineering projects,Private sector (companies)
+404,precipitation,Agro/Agroindustry/Irrigation,Engineering projects,Private sector (companies)
+405,regional simulation,Meteorology,Data Analysis,Universities
+406,precipitation,Agro/Agroindustry/Irrigation,Engineering projects,Public sector (state agencies)
+415,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+416,precipitation,Economy/Sales/trends markets,Teaching,Other educational institutions
+420,precipitation,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+421,precipitation,Building/Architecture,Engineering projects,Private sector (companies)
+424,precipitation,Environmental,Teaching,Universities
+425,precipitation,Hidrology,Engineering projects,Trade-union associations and other organizations
+426,precipitation,Agro/Agroindustry/Irrigation,Engineering projects,Private sector (companies)
+427,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Public sector (state agencies)
+428,precipitation,Energy,Data Analysis,Private sector (companies)
+430,precipitation,Building/Architecture,Data Analysis,Private sector (companies)
+431,precipitation,Hidrology,Data Analysis,Universities
+435,precipitation,Agro/Agroindustry/Irrigation,Engineering projects,Private sector (companies)
+436,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+439,precipitation,Meteorology,Research,Universities
+443,precipitation,Mathematics/Statistics/Modeling,Data Analysis,Other educational institutions
+444,precipitation,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+445,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Public sector (state agencies)
+446,precipitation,Economy/Sales/trends markets,Data Analysis,Public sector (state agencies)
+447,precipitation,Energy,Data Analysis,Universities
+448,precipitation,Hidrology,Data Analysis,Universities
+449,precipitation,Meteorology,Data Analysis,Universities
+450,precipitation,Ecology,Research,Universities
+451,precipitation,Agro/Agroindustry/Irrigation,Engineering projects,Private sector (companies)
+452,precipitation,Building/Architecture,Data Analysis,Universities
+453,precipitation,GIS/Teledetection,Data Analysis,Universities
+454,precipitation,Hidrology,Research,Trade-union associations and other organizations
+455,precipitation,Agro/Agroindustry/Irrigation,Engineering projects,Private sector (companies)
+456,precipitation,Meteorology,Data Analysis,Private sector (companies)
+457,precipitation,Meteorology,Data Analysis,Private sector (companies)
+458,precipitation,Hidrology,Research,Universities
+459,precipitation,Environmental,Data Analysis,Private sector (companies)
+460,precipitation,Forestry,Data Analysis,Public sector (state agencies)
+467,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+468,precipitation,Building/Architecture,Data Analysis,Private sector (companies)
+469,precipitation,Hidrology,Data Analysis,Universities
+473,precipitation,Ecology,Research,Universities
+475,precipitation,Agro/Agroindustry/Irrigation,Engineering projects,Private sector (companies)
+476,precipitation,Building/Architecture,Engineering projects,Private sector (companies)
+477,precipitation,Environmental,Data Analysis,Universities
+478,precipitation,Building/Architecture,Data Analysis,Universities
+479,precipitation,Hidrology,Teaching,Universities
+481,precipitation,Meteorology,Research,Universities
+482,precipitation,Meteorology,Research,Universities
+483,precipitation,Environmental,Research,Universities
+485,precipitation,Hidrology,Data Analysis,Universities
+488,flow,Hidrology,Engineering projects,Universities
+489,precipitation,Environmental,Data Analysis,Private sector (companies)
+490,precipitation,Meteorology,Data Analysis,Private sector (companies)
+492,precipitation,Hidrology,Research,Universities
+493,precipitation,Meteorology,Engineering projects,Private sector (companies)
+494,precipitation,Meteorology,Research,Universities
+496,flow,Mining,Data Analysis,Private sector (companies)
+498,flow,Mathematics/Statistics/Modeling,Data Analysis,Universities
+500,global simulation,Forestry,Teaching,Universities
+501,regional simulation,Hidrology,Data Analysis,Universities
+502,flow,Environmental,Research,Private sector (companies)
+503,flow,Environmental,Research,Universities
+504,max/min temperature,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+506,precipitation,Mathematics/Statistics/Modeling,Data Analysis,Private sector (companies)
+507,precipitation,Hidrology,Data Analysis,Public sector (state agencies)
+508,precipitation,Hidrology,Data Analysis,Public sector (state agencies)
+510,max/min temperature,Hidrology,Data Analysis,Public sector (state agencies)
+511,precipitation,Forestry,Data Analysis,Private sector (companies)
+512,precipitation,Hidrology,Research,Universities
+513,precipitation,Hidrology,Data Analysis,Universities
+515,precipitation,Environmental,Data Analysis,Private sector (companies)
+516,regional simulation,Hidrology,Data Analysis,Center Research
+517,precipitation,Meteorology,Research,Universities
+518,precipitation,Meteorology,Research,Universities
+519,precipitation,Meteorology,Teaching,Universities
+521,precipitation,Hidrology,Data Analysis,Universities
+522,flow,Communications,Data Analysis,Private sector (companies)
+523,precipitation,Communications,Data Analysis,Private sector (companies)
+525,precipitation,Energy,Data Analysis,Private sector (companies)
+526,flow,Hidrology,Data Analysis,Public sector (state agencies)
+527,precipitation,Energy,Research,Center Research
+528,precipitation,Environmental,Engineering projects,Private sector (companies)
+530,max/min temperature,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+532,precipitation,Hidrology,Data Analysis,Private sector (companies)
+533,precipitation,Economy/Sales/trends markets,Data Analysis,Universities
+535,precipitation,Building/Architecture,Engineering projects,Universities
+536,precipitation,Hidrology,Data Analysis,Private sector (companies)
+537,precipitation,Agro/Agroindustry/Irrigation,Research,Universities
+538,precipitation,Environmental,Research,Universities
+539,precipitation,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+541,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+542,precipitation,Environmental,Data Analysis,Universities
+544,precipitation,Forestry,Data Analysis,Universities
+545,flow,Hidrology,Teaching,Universities
+546,max/min temperature,Agro/Agroindustry/Irrigation,Engineering projects,Private sector (companies)
+547,precipitation,Economy/Sales/trends markets,Research,Private sector (companies)
+548,precipitation,Communications,Data Analysis,Private sector (companies)
+550,regional simulation,Meteorology,Research,Universities
+551,flow,Hidrology,Data Analysis,Public sector (state agencies)
+554,precipitation,Meteorology,Data Analysis,Universities
+557,regional simulation,Hidrology,Research,Universities
+558,regional simulation,Hidrology,Research,Universities
+559,regional simulation,Hidrology,Research,Universities
+561,regional simulation,Meteorology,Research,Universities
+562,precipitation,Hidrology,Research,Universities
+564,regional simulation,Meteorology,Data Analysis,Universities
+568,max/min temperature,Economy/Sales/trends markets,Data Analysis,Universities
+569,precipitation,Meteorology,Data Analysis,Public sector (state agencies)
+570,regional simulation,Hidrology,Data Analysis,Universities
+571,regional simulation,Hidrology,Data Analysis,Universities
+572,regional simulation,Hidrology,Data Analysis,Universities
+573,max/min temperature,Building/Architecture,Engineering projects,Private sector (companies)
+574,precipitation,Hidrology,Research,Universities
+577,precipitation,Hidrology,Data Analysis,Public sector (state agencies)
+578,regional simulation,Hidrology,Data Analysis,Universities
+579,regional simulation,Hidrology,Data Analysis,Universities
+580,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+581,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+583,precipitation,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+585,precipitation,Forestry,Data Analysis,Universities
+587,precipitation,Meteorology,Data Analysis,Public sector (state agencies)
+588,precipitation,Meteorology,Data Analysis,Public sector (state agencies)
+592,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+595,regional simulation,Environmental,Data Analysis,Universities
+596,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+597,precipitation,Agro/Agroindustry/Irrigation,Engineering projects,Private sector (companies)
+598,precipitation,Hidrology,Data Analysis,Universities
+599,precipitation,Meteorology,Data Analysis,Universities
+600,precipitation,Meteorology,Data Analysis,Universities
+601,max/min temperature,Hidrology,Data Analysis,Universities
+603,regional simulation,Environmental,Teaching,Universities
+604,flow,Environmental,Engineering projects,Private sector (companies)
+605,precipitation,Hidrology,Data Analysis,Private sector (companies)
+606,flow,Hidrology,Data Analysis,Universities
+609,max/min temperature,Meteorology,Data Analysis,Public sector (state agencies)
+612,precipitation,Hidrology,Research,Universities
+613,precipitation,Hidrology,Research,Universities
+616,precipitation,Hidrology,Data Analysis,Private sector (companies)
+617,precipitation,Hidrology,Data Analysis,Universities
+618,precipitation,Hidrology,Data Analysis,Universities
+619,precipitation,Hidrology,Data Analysis,Universities
+620,precipitation,Meteorology,Data Analysis,Universities
+621,precipitation,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+623,precipitation,Meteorology,Research,Universities
+624,regional simulation,Hidrology,Data Analysis,Public sector (state agencies)
+627,precipitation,Hidrology,Research,Public sector (state agencies)
+629,precipitation,Meteorology,Data Analysis,Universities
+630,precipitation,Environmental,Research,Center Research
+631,precipitation,Environmental,Research,Center Research
+632,precipitation,Meteorology,Research,Center Research
+633,precipitation,Hidrology,Data Analysis,Private sector (companies)
+634,max/min temperature,Environmental,Research,Center Research
+635,precipitation,Meteorology,Data Analysis,Private sector (companies)
+638,precipitation,Agro/Agroindustry/Irrigation,Engineering projects,Public sector (state agencies)
+639,precipitation,Hidrology,Data Analysis,Public sector (state agencies)
+640,precipitation,Economy/Sales/trends markets,Research,Universities
+642,precipitation,Ecology,Research,Universities
+643,flow,Hidrology,Data Analysis,Universities
+645,regional simulation,Agro/Agroindustry/Irrigation,Research,Public sector (state agencies)
+646,precipitation,Meteorology,Data Analysis,Universities
+647,precipitation,Forestry,Research,Universities
+648,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+649,precipitation,Environmental,Data Analysis,Universities
+651,precipitation,Environmental,Data Analysis,Universities
+652,regional simulation,Forestry,Data Analysis,Universities
+653,precipitation,Mathematics/Statistics/Modeling,Data Analysis,Universities
+654,regional simulation,Environmental,Research,Universities
+656,regional simulation,Environmental,Data Analysis,Private sector (companies)
+657,regional simulation,Meteorology,Data Analysis,Universities
+658,precipitation,Meteorology,Data Analysis,Universities
+659,precipitation,Meteorology,Data Analysis,Universities
+660,regional simulation,Agro/Agroindustry/Irrigation,Engineering projects,Private sector (companies)
+661,regional simulation,Meteorology,Research,Universities
+662,precipitation,Building/Architecture,Data Analysis,Private sector (companies)
+663,max/min temperature,Meteorology,Data Analysis,Universities
+664,precipitation,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+666,max/min temperature,Meteorology,Data Analysis,Universities
+667,precipitation,Ecology,Research,Universities
+674,precipitation,Agro/Agroindustry/Irrigation,Engineering projects,Universities
+675,max/min temperature,Hidrology,Research,Universities
+676,flow,Environmental,Engineering projects,Private sector (companies)
+677,precipitation,Environmental,Engineering projects,Private sector (companies)
+678,precipitation,Environmental,Engineering projects,Private sector (companies)
+679,max/min temperature,Environmental,Engineering projects,Private sector (companies)
+680,precipitation,Environmental,Data Analysis,Universities
+687,global simulation,Health,Data Analysis,Public sector (state agencies)
+688,precipitation,Hidrology,Research,Universities
+689,max/min temperature,Mathematics/Statistics/Modeling,Data Analysis,Universities
+690,precipitation,Hidrology,Engineering projects,Universities
+691,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+692,precipitation,Meteorology,Data Analysis,Universities
+693,precipitation,Agro/Agroindustry/Irrigation,Engineering projects,Private sector (companies)
+694,regional simulation,Hidrology,Data Analysis,Private sector (companies)
+696,precipitation,Meteorology,Research,Universities
+698,regional simulation,Meteorology,Research,Universities
+699,flow,Hidrology,Data Analysis,Private sector (companies)
+700,precipitation,Hidrology,Data Analysis,Private sector (companies)
+701,precipitation,Meteorology,Research,Private sector (companies)
+704,global simulation,Meteorology,Teaching,Universities
+705,global simulation,Meteorology,Teaching,Universities
+706,precipitation,Hidrology,Data Analysis,Private sector (companies)
+707,precipitation,Hidrology,Data Analysis,Private sector (companies)
+708,precipitation,Meteorology,Research,Private sector (companies)
+710,precipitation,Mathematics/Statistics/Modeling,Research,Universities
+711,precipitation,Meteorology,Data Analysis,Private sector (companies)
+712,precipitation,Meteorology,Data Analysis,Public sector (state agencies)
+713,precipitation,Meteorology,Data Analysis,Public sector (state agencies)
+715,flow,Building/Architecture,Engineering projects,Private sector (companies)
+716,precipitation,Building/Architecture,Engineering projects,Private sector (companies)
+717,precipitation,Building/Architecture,Engineering projects,Private sector (companies)
+718,max/min temperature,Building/Architecture,Engineering projects,Private sector (companies)
+719,precipitation,Meteorology,Data Analysis,Universities
+722,flow,Meteorology,Data Analysis,Universities
+726,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+727,precipitation,Communications,Data Analysis,Private sector (companies)
+729,precipitation,Meteorology,Research,Universities
+730,precipitation,Hidrology,Data Analysis,Private sector (companies)
+731,precipitation,Meteorology,Data Analysis,Universities
+732,precipitation,Meteorology,Data Analysis,Universities
+734,regional simulation,Hidrology,Research,Center Research
+735,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+736,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+737,global simulation,Meteorology,Research,Universities
+738,regional simulation,Hidrology,Data Analysis,Universities
+739,precipitation,Building/Architecture,Teaching,Private sector (companies)
+741,flow,Fishing/Aquaculture,Research,Public sector (state agencies)
+742,precipitation,Fishing/Aquaculture,Research,Public sector (state agencies)
+743,precipitation,Fishing/Aquaculture,Research,Public sector (state agencies)
+744,precipitation,Fishing/Aquaculture,Research,Public sector (state agencies)
+745,max/min temperature,Fishing/Aquaculture,Research,Public sector (state agencies)
+746,regional simulation,Fishing/Aquaculture,Research,Public sector (state agencies)
+747,regional simulation,Hidrology,Research,Universities
+749,precipitation,Energy,Engineering projects,Private sector (companies)
+750,max/min temperature,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+752,precipitation,Hidrology,Data Analysis,Private sector (companies)
+753,precipitation,Forestry,Research,Universities
+754,precipitation,Forestry,Research,Universities
+755,precipitation,Meteorology,Data Analysis,Universities
+757,regional simulation,Forestry,Research,Private sector (companies)
+759,precipitation,Hidrology,Data Analysis,Private sector (companies)
+760,flow,Hidrology,Data Analysis,Universities
+761,precipitation,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+764,precipitation,GIS/Teledetection,Data Analysis,Universities
+767,precipitation,Environmental,Data Analysis,Universities
+768,precipitation,Environmental,Research,Universities
+769,precipitation,Environmental,Research,Private sector (companies)
+771,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+772,flow,Hidrology,Data Analysis,Private sector (companies)
+773,precipitation,GIS/Teledetection,Data Analysis,Universities
+775,flow,Hidrology,Data Analysis,Private sector (companies)
+776,flow,Fishing/Aquaculture,Data Analysis,Universities
+777,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Public sector (state agencies)
+778,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Universities
+779,precipitation,Energy,Research,Universities
+780,precipitation,Forestry,Research,Universities
+781,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+785,regional simulation,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+787,flow,Hidrology,Data Analysis,Universities
+788,precipitation,Hidrology,Data Analysis,Universities
+789,precipitation,Mathematics/Statistics/Modeling,Research,Universities
+790,max/min temperature,Hidrology,Data Analysis,Universities
+791,precipitation,Energy,Data Analysis,Universities
+792,precipitation,Hidrology,Data Analysis,Public sector (state agencies)
+793,max/min temperature,Economy/Sales/trends markets,Data Analysis,Universities
+797,flow,Hidrology,Data Analysis,Private sector (companies)
+799,max/min temperature,Mining,Data Analysis,Private sector (companies)
+801,max/min temperature,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+802,max/min temperature,Environmental,Data Analysis,Private sector (companies)
+806,flow,Hidrology,Research,Universities
+807,precipitation,Environmental,Research,Universities
+809,precipitation,Hidrology,Data Analysis,Universities
+810,precipitation,Hidrology,Data Analysis,Universities
+811,precipitation,Hidrology,Data Analysis,Universities
+815,precipitation,Economy/Sales/trends markets,Research,Universities
+818,precipitation,Environmental,Research,Universities
+819,precipitation,Hidrology,Data Analysis,Private sector (companies)
+820,max/min temperature,Meteorology,Data Analysis,Private sector (companies)
+821,regional simulation,Agro/Agroindustry/Irrigation,Data Analysis,Universities
+823,precipitation,Meteorology,Research,Universities
+824,global simulation,Hidrology,Engineering projects,Private sector (companies)
+825,regional simulation,Hidrology,Engineering projects,Private sector (companies)
+826,precipitation,Environmental,Engineering projects,Private sector (companies)
+828,flow,Hidrology,Research,Universities
+829,cr2met,Agro/Agroindustry/Irrigation,Data Analysis,Public sector (state agencies)
+830,precipitation,Meteorology,Data Analysis,Private sector (companies)
+831,precipitation,Meteorology,Data Analysis,Universities
+834,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+841,precipitation,Meteorology,Data Analysis,Private sector (companies)
+842,flow,Hidrology,Data Analysis,Universities
+843,max/min temperature,Meteorology,Data Analysis,Universities
+844,max/min temperature,Meteorology,Data Analysis,Public sector (state agencies)
+846,precipitation,Economy/Sales/trends markets,Research,Private sector (companies)
+852,precipitation,Hidrology,Data Analysis,Private sector (companies)
+854,regional simulation,Forestry,Research,Universities
+856,precipitation,Health,Data Analysis,Private sector (companies)
+857,precipitation,Environmental,Research,Universities
+860,flow,Hidrology,Research,Universities
+863,precipitation,Building/Architecture,Engineering projects,Universities
+864,precipitation,Meteorology,Data Analysis,Private sector (companies)
+866,cr2met,Meteorology,Data Analysis,Universities
+867,precipitation,Meteorology,Teaching,Universities
+868,regional simulation,Hidrology,Data Analysis,Private sector (companies)
+870,precipitation,Environmental,Data Analysis,Universities
+871,cr2met,Forestry,Data Analysis,Universities
+872,cr2met,Forestry,Research,Universities
+873,precipitation,Meteorology,Research,Universities
+874,max/min temperature,Meteorology,Research,Public sector (state agencies)
+875,cr2met,Meteorology,Research,Center Research
+876,flow,Hidrology,Data Analysis,Private sector (companies)
+877,precipitation,Hidrology,Research,Universities
+878,precipitation,Forestry,Data Analysis,Private sector (companies)
+879,precipitation,Hidrology,Research,Universities
+880,max/min temperature,Energy,Data Analysis,Universities
+881,precipitation,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+882,precipitation,Meteorology,Data Analysis,Universities
+887,flow,Hidrology,Data Analysis,Universities
+889,cr2met,Meteorology,Research,Universities
+891,regional simulation,Meteorology,Data Analysis,Universities
+892,global simulation,Agro/Agroindustry/Irrigation,Research,Public sector (state agencies)
+893,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Universities
+894,regional simulation,Environmental,Data Analysis,Universities
+895,precipitation,Meteorology,Data Analysis,Private sector (companies)
+897,precipitation,Environmental,Research,Universities
+898,precipitation,Sanitary Services,Research,Universities
+899,cr2met,GIS/Teledetection,Data Analysis,Universities
+900,flow,Hidrology,Research,Universities
+901,regional simulation,Hidrology,Research,Universities
+903,precipitation,Hidrology,Teaching,Universities
+905,precipitation,Hidrology,Research,Universities
+907,flow,Meteorology,Data Analysis,Public sector (state agencies)
+908,precipitation,Meteorology,Data Analysis,Public sector (state agencies)
+909,precipitation,Meteorology,Data Analysis,Public sector (state agencies)
+910,precipitation,Hidrology,Research,Private sector (companies)
+913,regional simulation,Meteorology,Research,Universities
+918,precipitation,Hidrology,Data Analysis,Universities
+919,regional simulation,Building/Architecture,Data Analysis,Universities
+920,precipitation,Sociology,Research,Center Research
+921,flow,Building/Architecture,Engineering projects,Private sector (companies)
+922,precipitation,Building/Architecture,Data Analysis,Universities
+923,regional simulation,Environmental,Engineering projects,Private sector (companies)
+924,regional simulation,Hidrology,Data Analysis,Universities
+925,regional simulation,Hidrology,Data Analysis,Universities
+928,regional simulation,Meteorology,Research,Private sector (companies)
+929,precipitation,Economy/Sales/trends markets,Research,Universities
+931,precipitation,Building/Architecture,Research,Universities
+932,max/min temperature,Building/Architecture,Data Analysis,Private sector (companies)
+933,regional simulation,Meteorology,Data Analysis,Private sector (companies)
+935,cr2met,Economy/Sales/trends markets,Engineering projects,Private sector (companies)
+936,precipitation,Meteorology,Data Analysis,Universities
+937,precipitation,Meteorology,Research,Universities
+938,precipitation,Mathematics/Statistics/Modeling,Teaching,Universities
+939,precipitation,Hidrology,Data Analysis,Universities
+940,cr2met,Meteorology,Research,Universities
+942,regional simulation,Meteorology,Data Analysis,Universities
+943,precipitation,Building/Architecture,Data Analysis,Universities
+944,max/min temperature,GIS/Teledetection,Research,Universities
+945,regional simulation,Meteorology,Data Analysis,Universities
+946,precipitation,Communications,Data Analysis,Private sector (companies)
+947,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Trade-union associations and other organizations
+952,cr2met,Meteorology,Research,Universities
+953,precipitation,Building/Architecture,Data Analysis,Private sector (companies)
+954,flow,Hidrology,Data Analysis,Private sector (companies)
+956,global simulation,Hidrology,Data Analysis,Universities
+957,precipitation,Hidrology,Data Analysis,Private sector (companies)
+958,flow,Hidrology,Research,Universities
+959,regional simulation,Hidrology,Data Analysis,Private sector (companies)
+960,regional simulation,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+961,precipitation,Hidrology,Data Analysis,Private sector (companies)
+962,cr2met,Agro/Agroindustry/Irrigation,Data Analysis,Universities
+965,precipitation,Hidrology,Data Analysis,Universities
+966,regional simulation,Geografy/Geophysics/Geology,Data Analysis,Universities
+967,precipitation,Forestry,Research,Universities
+968,precipitation,Meteorology,Research,Universities
+969,precipitation,Geografy/Geophysics/Geology,Data Analysis,Universities
+970,precipitation,Hidrology,Data Analysis,Universities
+971,precipitation,Mining,Research,Universities
+972,precipitation,Meteorology,Research,Universities
+973,regional simulation,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+974,regional simulation,Environmental,Data Analysis,Universities
+975,precipitation,Sociology,Research,Universities
+978,regional simulation,Hidrology,Data Analysis,Universities
+979,regional simulation,Health,Data Analysis,Public sector (state agencies)
+981,regional simulation,Geografy/Geophysics/Geology,Research,Universities
+983,regional simulation,Meteorology,Data Analysis,Private sector (companies)
+984,regional simulation,Agro/Agroindustry/Irrigation,Data Analysis,Universities
+985,regional simulation,Health,Research,Private sector (companies)
+988,flow,Oceanography,Data Analysis,Private sector (companies)
+989,regional simulation,Hidrology,Research,Universities
+991,cr2met,Hidrology,Research,Center Research
+992,regional simulation,Geografy/Geophysics/Geology,Research,Universities
+995,flow,Mathematics/Statistics/Modeling,Data Analysis,Universities
+997,regional simulation,Agro/Agroindustry/Irrigation,Research,Center Research
+998,regional simulation,Environmental,Data Analysis,Public sector (state agencies)
+999,regional simulation,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+1002,regional simulation,Meteorology,Data Analysis,Universities
+1003,regional simulation,Hidrology,Research,Universities
+1004,cr2met,Forestry,Data Analysis,Universities
+1005,cr2met,Geografy/Geophysics/Geology,Teaching,Universities
+1007,precipitation,Mathematics/Statistics/Modeling,Data Analysis,Public sector (state agencies)
+1009,precipitation,Mathematics/Statistics/Modeling,Data Analysis,Universities
+1012,regional simulation,Meteorology,Data Analysis,Private sector (companies)
+1015,precipitation,GIS/Teledetection,Data Analysis,Universities
+1016,regional simulation,Agro/Agroindustry/Irrigation,Data Analysis,Public sector (state agencies)
+1018,cr2met,Meteorology,Data Analysis,Universities
+1019,precipitation,Ecology,Data Analysis,Universities
+1020,cr2met,Hidrology,Engineering projects,Private sector (companies)
+1021,precipitation,Hidrology,Data Analysis,Universities
+1022,cr2met,Forestry,Data Analysis,Public sector (state agencies)
+1024,precipitation,Environmental,Data Analysis,Universities
+1025,precipitation,Mining,Data Analysis,Private sector (companies)
+1026,regional simulation,Environmental,Research,Universities
+1027,global simulation,Hidrology,Data Analysis,Private sector (companies)
+1028,regional simulation,Environmental,Data Analysis,Universities
+1029,regional simulation,Environmental,Data Analysis,Private sector (companies)
+1030,regional simulation,Energy,Engineering projects,Private sector (companies)
+1034,max/min temperature,Health,Data Analysis,Trade-union associations and other organizations
+1037,precipitation,Mathematics/Statistics/Modeling,Data Analysis,Universities
+1040,precipitation,Health,Research,Universities
+1041,regional simulation,Meteorology,Data Analysis,Universities
+1042,precipitation,Hidrology,Data Analysis,Universities
+1043,precipitation,Meteorology,Data Analysis,Universities
+1044,regional simulation,Agro/Agroindustry/Irrigation,Data Analysis,Universities
+1046,precipitation,Meteorology,Research,Private sector (companies)
+1047,precipitation,Sociology,Data Analysis,Public sector (state agencies)
+1049,precipitation,Meteorology,Data Analysis,Universities
+1050,precipitation,GIS/Teledetection,Data Analysis,Universities
+1051,flow,Hidrology,Data Analysis,Universities
+1052,precipitation,Hidrology,Data Analysis,Universities
+1053,regional simulation,Health,Research,Public sector (state agencies)
+1055,max/min temperature,Mining,Research,Private sector (companies)
+1056,regional simulation,Geografy/Geophysics/Geology,Data Analysis,Universities
+1057,regional simulation,Energy,Engineering projects,Universities
+1058,precipitation,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+1059,cr2met,Meteorology,Research,Universities
+1060,precipitation,Hidrology,Data Analysis,Private sector (companies)
+1061,global simulation,Communications,Data Analysis,Private sector (companies)
+1062,regional simulation,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+1063,flow,Hidrology,Data Analysis,Public sector (state agencies)
+1064,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Universities
+1065,precipitation,Building/Architecture,Data Analysis,Other educational institutions
+1069,precipitation,Health,Data Analysis,Universities
+1073,max/min temperature,Forestry,Data Analysis,Private sector (companies)
+1076,flow,Agro/Agroindustry/Irrigation,Data Analysis,Public sector (state agencies)
+1083,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+1085,regional simulation,Meteorology,Data Analysis,Universities
+1090,precipitation,Energy,Data Analysis,Universities
+1091,global simulation,Sociology,Data Analysis,Universities
+1094,max/min temperature,Forestry,Data Analysis,Trade-union associations and other organizations
+1095,regional simulation,Meteorology,Data Analysis,Universities
+1100,precipitation,Mathematics/Statistics/Modeling,Data Analysis,Private sector (companies)
+1101,regional simulation,Agro/Agroindustry/Irrigation,Data Analysis,Universities
+1102,global simulation,Environmental,Research,Universities
+1104,precipitation,Hidrology,Data Analysis,Universities
+1105,regional simulation,Hidrology,Research,Universities
+1108,regional simulation,Meteorology,Research,Center Research
+1109,global simulation,Hidrology,Research,Private sector (companies)
+1110,precipitation,Mathematics/Statistics/Modeling,Data Analysis,Private sector (companies)
+1114,precipitation,Economy/Sales/trends markets,Data Analysis,Universities
+1115,precipitation,Economy/Sales/trends markets,Data Analysis,Universities
+1116,global simulation,Mathematics/Statistics/Modeling,Data Analysis,Universities
+1119,max/min temperature,Meteorology,Data Analysis,Private sector (companies)
+1120,flow,Oceanography,Data Analysis,Universities
+1121,regional simulation,Environmental,Research,Universities
+1122,precipitation,Oceanography,Research,Universities
+1123,cr2met,GIS/Teledetection,Data Analysis,Center Research
+1124,precipitation,Hidrology,Data Analysis,Private sector (companies)
+1125,flow,Sociology,Data Analysis,Universities
+1126,precipitation,Hidrology,Data Analysis,Public sector (state agencies)
+1127,precipitation,Forestry,Data Analysis,Universities
+1129,regional simulation,Forestry,Research,Universities
+1131,precipitation,Forestry,Research,Universities
+1133,flow,Environmental,Data Analysis,Private sector (companies)
+1134,global simulation,Ecology,Data Analysis,Universities
+1136,max/min temperature,Meteorology,Data Analysis,Universities
+1137,precipitation,Hidrology,Data Analysis,Universities
+1140,precipitation,Ecology,Data Analysis,Universities
+1141,regional simulation,Agro/Agroindustry/Irrigation,Engineering projects,Private sector (companies)
+1145,regional simulation,Meteorology,Data Analysis,Private sector (companies)
+1148,precipitation,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+1153,regional simulation,Law,Data Analysis,Public sector (state agencies)
+1154,regional simulation,Environmental,Data Analysis,Universities
+1155,regional simulation,Hidrology,Data Analysis,Universities
+1157,precipitation,Mathematics/Statistics/Modeling,Research,Universities
+1159,precipitation,Building/Architecture,Data Analysis,Trade-union associations and other organizations
+1160,precipitation,Hidrology,Data Analysis,Private sector (companies)
+1163,cr2met,Agro/Agroindustry/Irrigation,Research,Universities
+1166,regional simulation,Hidrology,Research,Private sector (companies)
+1168,precipitation,Hidrology,Data Analysis,Universities
+1169,precipitation,Agro/Agroindustry/Irrigation,Research,Universities
+1172,regional simulation,Environmental,Research,Universities
+1173,regional simulation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+1177,precipitation,Forestry,Data Analysis,Universities
+1183,precipitation,Mining,Data Analysis,Public sector (state agencies)
+1184,regional simulation,Energy,Data Analysis,Public sector (state agencies)
+1186,precipitation,Mathematics/Statistics/Modeling,Data Analysis,Universities
+1187,cr2met,Hidrology,Data Analysis,Private sector (companies)
+1188,flow,Hidrology,Data Analysis,Universities
+1189,precipitation,Hidrology,Data Analysis,Private sector (companies)
+1190,cr2met,Forestry,Research,Universities
+1191,precipitation,Meteorology,Data Analysis,Universities
+1193,precipitation,Ecology,Data Analysis,Universities
+1194,cr2met,Hidrology,Data Analysis,Universities
+1199,precipitation,GIS/Teledetection,Data Analysis,Universities
+1201,regional simulation,Environmental,Research,Private sector (companies)
+1202,regional simulation,Meteorology,Research,Universities
+1203,flow,Hidrology,Data Analysis,Universities
+1206,precipitation,Ecology,Data Analysis,Other educational institutions
+1207,cr2met,Geografy/Geophysics/Geology,Data Analysis,Universities
+1208,flow,Energy,Data Analysis,Private sector (companies)
+1210,regional simulation,Meteorology,Research,Universities
+1211,regional simulation,Hidrology,Data Analysis,Universities
+1214,global simulation,Economy/Sales/trends markets,Data Analysis,Trade-union associations and other organizations
+1215,global simulation,Hidrology,Research,Universities
+1216,regional simulation,Environmental,Research,Public sector (state agencies)
+1218,flow,Mathematics/Statistics/Modeling,Data Analysis,Universities
+1219,flow,Hidrology,Data Analysis,Universities
+1220,global simulation,Oceanography,Data Analysis,Universities
+1221,regional simulation,Hidrology,Research,Private sector (companies)
+1222,global simulation,Energy,Data Analysis,Private sector (companies)
+1223,global simulation,Energy,Data Analysis,Universities
+1224,global simulation,Energy,Data Analysis,Universities
+1231,regional simulation,Environmental,Data Analysis,Public sector (state agencies)
+1232,flow,Meteorology,Data Analysis,Universities
+1233,regional simulation,Environmental,Research,Universities
+1234,flow,Mathematics/Statistics/Modeling,Data Analysis,Universities
+1236,precipitation,Hidrology,Data Analysis,Universities
+1237,precipitation,Environmental,Research,Universities
+1238,precipitation,Meteorology,Research,Universities
+1239,regional simulation,Hidrology,Research,Universities
+1240,precipitation,Economy/Sales/trends markets,Research,Private sector (companies)
+1241,precipitation,Economy/Sales/trends markets,Research,Universities
+1242,precipitation,Hidrology,Engineering projects,Private sector (companies)
+1243,max/min temperature,Meteorology,Research,Universities
+1245,temperature,Building/Architecture,Data Analysis,Universities
+1246,temperature,Hidrology,Research,Universities
+1247,global simulation,Meteorology,Research,Universities
+1248,cr2met,Hidrology,Engineering projects,Private sector (companies)
+1249,regional simulation,Tourism,Data Analysis,Private sector (companies)
+1250,regional simulation,Meteorology,Data Analysis,Universities
+1251,temperature,Environmental,Research,Universities
+1252,mma simulation,Hidrology,Research,Center Research
+1253,flow,Meteorology,Data Analysis,Universities
+1254,precipitation,Tourism,Data Analysis,Private sector (companies)
+1255,temperature,Mathematics/Statistics/Modeling,Research,Universities
+1256,camels,Hidrology,Research,Universities
+1257,cr2met,Meteorology,Research,Universities
+1258,temperature,Hidrology,Data Analysis,Universities
+1259,mma simulation,Meteorology,Research,Universities
+1260,regional simulation,Mining,Research,Private sector (companies)
+1261,regional simulation,Meteorology,Research,Universities
+1262,flow,Hidrology,Data Analysis,Universities
+1263,flow,Hidrology,Research,Public sector (state agencies)
+1264,temperature,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+1265,temperature,Geografy/Geophysics/Geology,Research,Universities
+1267,global simulation,Hidrology,Research,Private sector (companies)
+1269,precipitation,Forestry,Research,Universities
+1270,global simulation,Environmental,Research,Private sector (companies)
+1271,regional simulation,Environmental,Research,Universities
+1272,precipitation,Agro/Agroindustry/Irrigation,Research,Universities
+1275,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+1276,camels,Mining,Engineering projects,Private sector (companies)
+1277,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Public sector (state agencies)
+1278,precipitation,Environmental,Research,Public sector (state agencies)
+1279,precipitation,Mining,Research,Universities
+1280,precipitation,Meteorology,Engineering projects,Private sector (companies)
+1282,mma simulation,Meteorology,Research,Universities
+1283,mma simulation,Meteorology,Research,Universities
+1284,temperature,Health,Research,Universities
+1285,global simulation,Environmental,Research,Universities
+1286,regional simulation,Hidrology,Research,Universities
+1289,precipitation,Mathematics/Statistics/Modeling,Teaching,Other educational institutions
+1290,precipitation,Environmental,Research,Private sector (companies)
+1297,precipitation,Hidrology,Research,Public sector (state agencies)
+1298,temperature,Mining,Engineering projects,Private sector (companies)
+1299,flow,Fishing/Aquaculture,Research,Universities
+1300,precipitation,Hidrology,Research,Universities
+1301,precipitation,Building/Architecture,Engineering projects,Private sector (companies)
+1302,temperature,Energy,Research,Universities
+1303,flow,Hidrology,Research,Universities
+1304,temperature,Forestry,Research,Universities
+1305,mma simulation,Agro/Agroindustry/Irrigation,Research,Center Research
+1306,cr2met,Meteorology,Research,Universities
+1307,temperature,Meteorology,Data Analysis,Universities
+1308,regional simulation,Meteorology,Research,Universities
+1309,precipitation,Hidrology,Data Analysis,Trade-union associations and other organizations
+1310,mma simulation,Environmental,Data Analysis,Public sector (state agencies)
+1311,camels,Hidrology,Data Analysis,Universities
+1312,flow,Building/Architecture,Engineering projects,Private sector (companies)
+1313,flow,Environmental,Engineering projects,Private sector (companies)
+1314,regional simulation,Environmental,Research,Center Research
+1316,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Public sector (state agencies)
+1317,precipitation,Environmental,Data Analysis,Private sector (companies)
+1318,precipitation,Environmental,Research,Private sector (companies)
+1319,cr2met,Meteorology,Data Analysis,Universities
+1320,cr2met,Environmental,Research,Universities
+1321,mma simulation,Hidrology,Research,Universities
+1323,regional simulation,Sanitary Services,Data Analysis,Public sector (state agencies)
+1324,precipitation,Environmental,Data Analysis,Public sector (state agencies)
+1325,max/min temperature,Meteorology,Data Analysis,Universities
+1326,cr2met,GIS/Teledetection,Data Analysis,Universities
+1327,camels,Meteorology,Research,Universities
+1328,max/min temperature,Mathematics/Statistics/Modeling,Research,Universities
+1329,regional simulation,Meteorology,Research,Universities
+1330,precipitation,Building/Architecture,Engineering projects,Public sector (state agencies)
+1331,precipitation,Environmental,Engineering projects,Private sector (companies)
+1332,mma simulation,Hidrology,Engineering projects,Private sector (companies)
+1333,precipitation,Forestry,Research,Private sector (companies)
+1334,mma simulation,Agro/Agroindustry/Irrigation,Teaching,Other educational institutions
+1335,mma simulation,Agro/Agroindustry/Irrigation,Teaching,Universities
+1336,mma simulation,Agro/Agroindustry/Irrigation,Research,Other educational institutions
+1337,camels,Agro/Agroindustry/Irrigation,Research,Private sector (companies)
+1338,regional simulation,Agro/Agroindustry/Irrigation,Research,Universities
+1339,cr2met,Environmental,Research,Universities
+1340,cr2met,Environmental,Data Analysis,Private sector (companies)
+1341,flow,Hidrology,Data Analysis,Private sector (companies)
+1342,flow,Hidrology,Research,Universities
+1343,precipitation,Agro/Agroindustry/Irrigation,Teaching,Trade-union associations and other organizations
+1344,regional simulation,Environmental,Data Analysis,NGO
+1345,regional simulation,Forestry,Research,Universities
+1346,regional simulation,Environmental,Research,Universities
+1347,flow,Hidrology,Research,Universities
+1348,precipitation,Meteorology,Data Analysis,Universities
+1349,precipitation,Environmental,Research,Universities
+1350,cr2met,Ecology,Teaching,Universities
+1351,precipitation,Meteorology,Data Analysis,Private sector (companies)
+1352,precipitation,Hidrology,Data Analysis,Public sector (state agencies)
+1353,precipitation,Mining,Research,Private sector (companies)
+1354,temperature,Meteorology,Data Analysis,Universities
+1355,temperature,Economy/Sales/trends markets,Teaching,Universities
+1356,mma simulation,Forestry,Research,Universities
+1357,regional simulation,Agro/Agroindustry/Irrigation,Research,Universities
+1358,temperature,Economy/Sales/trends markets,Engineering projects,Universities
+1359,mma simulation,Tourism,Data Analysis,Private sector (companies)
+1360,regional simulation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+1361,flow,Hidrology,Data Analysis,Public sector (state agencies)
+1363,precipitation,Economy/Sales/trends markets,Teaching,Private sector (companies)
+1364,cr2met,Forestry,Research,Universities
+1365,cr2met,Forestry,Research,Universities
+1366,precipitation,Forestry,Data Analysis,Public sector (state agencies)
+1367,precipitation,Forestry,Data Analysis,Public sector (state agencies)
+1368,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+1369,precipitation,Building/Architecture,Teaching,Trade-union associations and other organizations
+1370,precipitation,Environmental,Teaching,Other educational institutions
+1371,precipitation,Meteorology,Research,Universities
+1372,regional simulation,Environmental,Teaching,Universities
+1373,cr2met,Hidrology,Research,Universities
+1374,precipitation,Hidrology,Research,Universities
+1375,regional simulation,GIS/Teledetection,Engineering projects,Universities
+1376,camels,Environmental,Research,Universities
+1377,precipitation,Hidrology,Data Analysis,Universities
+1378,cr2met,Hidrology,Research,Universities
+1379,temperature,Building/Architecture,Engineering projects,Private sector (companies)
+1380,regional simulation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+1381,temperature,Hidrology,Research,Universities
+1382,temperature,Energy,Engineering projects,Universities
+1383,regional simulation,Environmental,Data Analysis,Private sector (companies)
+1384,regional simulation,Environmental,Research,NGO
+1385,regional simulation,Environmental,Research,Universities
+1387,flow,Environmental,Research,Universities
+1388,precipitation,Hidrology,Data Analysis,Universities
+1389,precipitation,Hidrology,Data Analysis,Universities
+1390,temperature,Hidrology,Data Analysis,Universities
+1391,global simulation,Agro/Agroindustry/Irrigation,Data Analysis,Public sector (state agencies)
+1392,regional simulation,Meteorology,Data Analysis,Universities
+1393,temperature,Building/Architecture,Data Analysis,Other educational institutions
+1394,regional simulation,Ecology,Data Analysis,Universities
+1395,cr2met,Environmental,Research,Universities
+1396,precipitation,Environmental,Data Analysis,Private sector (companies)
+1397,precipitation,Environmental,Research,Center Research
+1398,precipitation,Environmental,Research,Universities
+1399,global simulation,Energy,Data Analysis,Universities
+1400,mma simulation,Energy,Data Analysis,Universities
+1402,precipitation,Meteorology,Data Analysis,Public sector (state agencies)
+1403,mma simulation,Environmental,Data Analysis,Private sector (companies)
+1404,precipitation,Hidrology,Engineering projects,Public sector (state agencies)
+1405,mma simulation,Environmental,Research,Universities
+1406,mma simulation,Hidrology,Research,Universities
+1407,regional simulation,Hidrology,Data Analysis,Center Research
+1408,precipitation,Mining,Data Analysis,Private sector (companies)
+1409,temperature,Hidrology,Teaching,Universities
+1410,max/min temperature,GIS/Teledetection,Research,Universities
+1411,regional simulation,Meteorology,Research,Universities
+1412,regional simulation,Meteorology,Engineering projects,Private sector (companies)
+1413,cr2met,Hidrology,Teaching,Universities
+1414,flow,Energy,Research,Universities
+1415,precipitation,Hidrology,Data Analysis,Universities
+1416,max/min temperature,Building/Architecture,Research,Universities
+1417,temperature,Building/Architecture,Research,Private sector (companies)
+1418,regional simulation,Hidrology,Research,Universities
+1419,flow,Environmental,Data Analysis,Universities
+1420,precipitation,Building/Architecture,Data Analysis,Private sector (companies)
+1421,precipitation,Agro/Agroindustry/Irrigation,Engineering projects,Private sector (companies)
+1422,precipitation,Hidrology,Data Analysis,Universities
+1423,precipitation,Communications,Research,Universities
+1424,temperature,Agro/Agroindustry/Irrigation,Research,Universities
+1425,camels,Hidrology,Research,Universities
+1428,cr2met,Environmental,Research,Universities
+1429,flow,Hidrology,Research,Universities
+1430,precipitation,Environmental,Data Analysis,Public sector (state agencies)
+1431,regional simulation,Environmental,Data Analysis,NGO
+1432,cr2met,Hidrology,Engineering projects,Universities
+1433,regional simulation,Energy,Research,Universities
+1434,regional simulation,Agro/Agroindustry/Irrigation,Engineering projects,Universities
+1435,regional simulation,Agro/Agroindustry/Irrigation,Research,Universities
+1436,regional simulation,Hidrology,Engineering projects,Universities
+1437,precipitation,Hidrology,Data Analysis,Universities
+1438,temperature,Hidrology,Data Analysis,Universities
+1439,temperature,Oceanography,Research,Universities
+1441,mma simulation,Hidrology,Research,Universities
+1442,flow,Agro/Agroindustry/Irrigation,Data Analysis,Universities
+1443,precipitation,Hidrology,Data Analysis,Universities
+1444,regional simulation,Hidrology,Research,Center Research
+1445,regional simulation,Hidrology,Teaching,Public sector (state agencies)
+1446,regional simulation,Meteorology,Research,Universities
+1447,flow,Hidrology,Data Analysis,Universities
+1448,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+1449,precipitation,Hidrology,Data Analysis,Universities
+1450,precipitation,Meteorology,Teaching,Universities
+1451,max/min temperature,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+1453,regional simulation,Environmental,Research,Universities
+1454,precipitation,Meteorology,Research,Universities
+1455,precipitation,Energy,Engineering projects,Private sector (companies)
+1456,regional simulation,Law,Data Analysis,Private sector (companies)
+1457,temperature,Fishing/Aquaculture,Data Analysis,Universities
+1458,regional simulation,Sociology,Data Analysis,NGO
+1459,regional simulation,Environmental,Research,Universities
+1460,regional simulation,Building/Architecture,Research,Universities
+1461,flow,Agro/Agroindustry/Irrigation,Data Analysis,Other educational institutions
+1462,precipitation,Meteorology,Research,Universities
+1463,precipitation,Agro/Agroindustry/Irrigation,Research,Universities
+1464,regional simulation,Hidrology,Data Analysis,Trade-union associations and other organizations
+1465,precipitation,Building/Architecture,Data Analysis,Private sector (companies)
+1466,precipitation,Meteorology,Research,Center Research
+1467,precipitation,Meteorology,Research,Center Research
+1468,precipitation,Hidrology,Research,Universities
+1469,temperature,Hidrology,Data Analysis,Universities
+1470,regional simulation,Economy/Sales/trends markets,Data Analysis,Universities
+1471,mma simulation,Hidrology,Research,Universities
+1472,regional simulation,Meteorology,Research,Universities
+1473,regional simulation,Meteorology,Research,Universities
+1474,regional simulation,Meteorology,Data Analysis,Universities
+1475,cr2met,Sociology,Research,Universities
+1476,mma simulation,Environmental,Research,Universities
+1477,regional simulation,Communications,Research,Private sector (companies)
+1478,regional simulation,Environmental,Research,Universities
+1479,precipitation,Hidrology,Engineering projects,Private sector (companies)
+1480,regional simulation,Meteorology,Data Analysis,Universities
+1482,regional simulation,Hidrology,Research,Universities
+1483,precipitation,Environmental,Research,Universities
+1484,mma simulation,Forestry,Research,Universities
+1485,regional simulation,Forestry,Data Analysis,Universities
+1486,regional simulation,Hidrology,Teaching,Universities
+1487,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+1488,precipitation,Meteorology,Data Analysis,Private sector (companies)
+1489,precipitation,Forestry,Data Analysis,Public sector (state agencies)
+1491,precipitation,Environmental,Research,Center Research
+1492,temperature,Sociology,Data Analysis,Universities
+1493,global simulation,Hidrology,Data Analysis,Private sector (companies)
+1494,mma simulation,Meteorology,Research,Center Research
+1495,max/min temperature,GIS/Teledetection,Research,Center Research
+1496,flow,Agro/Agroindustry/Irrigation,Teaching,Private sector (companies)
+1497,global simulation,Hidrology,Research,Universities
+1498,mma simulation,Hidrology,Research,Universities
+1499,mma simulation,Hidrology,Research,Universities
+1500,regional simulation,Hidrology,Research,Universities
+1502,cr2met,Hidrology,Research,Center Research
+1503,precipitation,Meteorology,Research,Universities
+1504,precipitation,Environmental,Teaching,Other educational institutions
+1505,max/min temperature,Fishing/Aquaculture,Research,Private sector (companies)
+1506,regional simulation,Meteorology,Research,Universities
+1507,flow,Agro/Agroindustry/Irrigation,Engineering projects,Private sector (companies)
+1508,regional simulation,Hidrology,Research,Center Research
+1509,precipitation,Environmental,Research,Universities
+1510,mma simulation,Environmental,Research,Universities
+1511,flow,Hidrology,Data Analysis,Universities
+1512,mma simulation,Hidrology,Engineering projects,Private sector (companies)
+1513,camels,Hidrology,Research,Universities
+1514,flow,Building/Architecture,Data Analysis,Universities
+1515,mma simulation,Hidrology,Research,Universities
+1517,precipitation,Economy/Sales/trends markets,Data Analysis,Other educational institutions
+1518,mma simulation,Energy,Research,Private sector (companies)
+1519,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Trade-union associations and other organizations
+1520,regional simulation,Fishing/Aquaculture,Data Analysis,Public sector (state agencies)
+1521,temperature,Energy,Research,Universities
+1522,regional simulation,Geografy/Geophysics/Geology,Research,Universities
+1523,flow,Hidrology,Research,Center Research
+1524,flow,Ecology,Research,Universities
+1525,precipitation,Hidrology,Research,Center Research
+1526,precipitation,Hidrology,Research,Universities
+1527,temperature,Hidrology,Research,Center Research
+1528,camels,Economy/Sales/trends markets,Research,Private sector (companies)
+1529,camels,Forestry,Research,Universities
+1530,flow,Building/Architecture,Data Analysis,Universities
+1532,precipitation,Forestry,Research,Universities
+1533,precipitation,Meteorology,Data Analysis,Public sector (state agencies)
+1534,global simulation,Telecomunications,Research,Private sector (companies)
+1535,global simulation,Environmental,Research,Universities
+1536,regional simulation,Hidrology,Research,Universities
+1537,precipitation,Environmental,Data Analysis,Private sector (companies)
+1538,flow,Environmental,Research,Universities
+1540,precipitation,Hidrology,Data Analysis,Universities
+1542,temperature,Environmental,Research,Universities
+1543,precipitation,Environmental,Research,Universities
+1544,global simulation,Mining,Research,Universities
+1545,temperature,Building/Architecture,Research,Universities
+1546,precipitation,Meteorology,Research,Universities
+1547,mma simulation,Meteorology,Research,Universities
+1548,precipitation,Building/Architecture,Engineering projects,Private sector (companies)
+1549,precipitation,Meteorology,Research,Private sector (companies)
+1550,mma simulation,Forestry,Research,Center Research
+1551,camels,Environmental,Research,Universities
+1553,global simulation,Environmental,Teaching,Universities
+1554,flow,Agro/Agroindustry/Irrigation,Data Analysis,Trade-union associations and other organizations
+1555,mma simulation,Meteorology,Research,Universities
+1557,max/min temperature,Energy,Engineering projects,Private sector (companies)
+1558,cr2met,Forestry,Research,Universities
+1559,flow,Hidrology,Research,Universities
+1560,precipitation,Environmental,Data Analysis,Private sector (companies)
+1561,temperature,Meteorology,Research,Private sector (companies)
+1563,precipitation,Forestry,Research,Independent
+1564,temperature,Economy/Sales/trends markets,Research,Universities
+1565,temperature,Tourism,Research,Universities
+1566,precipitation,Building/Architecture,Data Analysis,Private sector (companies)
+1567,precipitation,Hidrology,Data Analysis,Universities
+1568,precipitation,Hidrology,Data Analysis,Universities
+1570,camels,Hidrology,Research,Universities
+1571,precipitation,Environmental,Research,Universities
+1572,precipitation,Meteorology,Research,Universities
+1573,precipitation,Hidrology,Research,Universities
+1574,temperature,Meteorology,Data Analysis,Universities
+1575,cr2met,Hidrology,Engineering projects,Public sector (state agencies)
+1576,precipitation,Environmental,Research,Universities
+1577,precipitation,Meteorology,Research,Universities
+1578,flow,Hidrology,Data Analysis,Independent
+1579,flow,Environmental,Research,Universities
+1580,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Trade-union associations and other organizations
+1581,precipitation,Education,Data Analysis,Universities
+1582,max/min temperature,Informatics/Computing,Data Analysis,Universities
+1583,precipitation,Mathematics/Statistics/Modeling,Data Analysis,Private sector (companies)
+1584,precipitation,Mathematics/Statistics/Modeling,Data Analysis,Private sector (companies)
+1585,flow,Hidrology,Data Analysis,Universities
+1586,precipitation,Meteorology,Data Analysis,Universities
+1587,flow,Environmental,Research,Universities
+1588,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+1589,camels,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+1590,temperature,Fishing/Aquaculture,Data Analysis,Private sector (companies)
+1591,precipitation,Hidrology,Research,Universities
+1592,temperature,Sanitary Services,Research,Universities
+1593,precipitation,Economy/Sales/trends markets,Research,Universities
+1594,precipitation,Communications,Data Analysis,Private sector (companies)
+1595,max/min temperature,Transport,Data Analysis,Private sector (companies)
+1596,precipitation,Forestry,Data Analysis,Public sector (state agencies)
+1597,flow,Environmental,Data Analysis,Universities
+1598,cr2met,Hidrology,Research,Universities
+1599,precipitation,Hidrology,Data Analysis,Universities
+1600,precipitation,Education,Teaching,Universities
+1601,flow,Meteorology,Research,Universities
+1602,flow,Environmental,Data Analysis,Independent
+1603,camels,Environmental,Research,Universities
+1604,precipitation,Economy/Sales/trends markets,Research,Universities
+1605,cr2met,Environmental,Research,Universities
+1606,precipitation,Building/Architecture,Engineering projects,Public sector (state agencies)
+1607,flow,Hidrology,Engineering projects,Universities
+1608,max/min temperature,Education,Teaching,Other educational institutions
+1609,flow,Hidrology,Teaching,Universities
+1610,precipitation,Informatics/Computing,Data Analysis,Independent
+1611,precipitation,Hidrology,Engineering projects,Private sector (companies)
+1612,precipitation,Agro/Agroindustry/Irrigation,Engineering projects,Public sector (state agencies)
+1613,temperature,Meteorology,Research,Universities
+1614,precipitation,Physical,Research,Universities
+1615,temperature,Environmental,Data Analysis,Independent
+1616,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Universities
+1618,precipitation,Environmental,Research,Trade-union associations and other organizations
+1619,temperature,Industrial,Data Analysis,Universities
+1621,precipitation,Forestry,Data Analysis,Public sector (state agencies)
+1622,precipitation,Transport,Engineering projects,Public sector (state agencies)
+1623,precipitation,Hidrology,Data Analysis,Private sector (companies)
+1624,precipitation,Meteorology,Research,Private sector (companies)
+1625,cr2met,Hidrology,Research,Universities
+1626,cr2met,Hidrology,Research,Universities
+1627,global simulation,Mining,Engineering projects,Private sector (companies)
+1628,flow,Energy,Engineering projects,Universities
+1629,cr2met,Hidrology,Engineering projects,Private sector (companies)
+1630,temperature,Economy/Sales/trends markets,Research,Private sector (companies)
+1631,precipitation,Ecology,Data Analysis,Universities
+1632,precipitation,Environmental,Research,Center Research
+1633,flow,Mathematics/Statistics/Modeling,Research,Universities
+1634,precipitation,Economy/Sales/trends markets,Research,Universities
+1635,flow,Oceanography,Research,Center Research
+1636,camels,Geografy/Geophysics/Geology,Research,Universities
+1637,cr2met,Environmental,Data Analysis,Private sector (companies)
+1638,cr2met,Environmental,Research,Center Research
+1639,precipitation,Geografy/Geophysics/Geology,Data Analysis,Universities
+1641,flow,Environmental,Research,Universities
+1642,precipitation,Mathematics/Statistics/Modeling,Engineering projects,Universities
+1643,precipitation,Forestry,Research,Universities
+1644,precipitation,Building/Architecture,Research,Universities
+1645,precipitation,Health,Data Analysis,Public sector (state agencies)
+1646,flow,Environmental,Data Analysis,Universities
+1647,flow,Energy,Engineering projects,Universities
+1648,precipitation,Building/Architecture,Teaching,Universities
+1649,precipitation,Forestry,Data Analysis,Independent
+1650,temperature,Energy,Teaching,Center Research
+1651,precipitation,Mathematics/Statistics/Modeling,Research,Universities
+1652,precipitation,Hidrology,Research,Universities
+1653,precipitation,Environmental,Research,Universities
+1654,temperature,Building/Architecture,Data Analysis,Public sector (state agencies)
+1655,precipitation,Hidrology,Research,Universities
+1656,precipitation,Mathematics/Statistics/Modeling,Data Analysis,Universities
+1657,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Public sector (state agencies)
+1658,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Public sector (state agencies)
+1659,max/min temperature,Forestry,Data Analysis,Universities
+1661,precipitation,Environmental,Research,Universities
+1662,flow,Oceanography,Research,Universities
+1664,precipitation,Hidrology,Data Analysis,Universities
+1665,cr2met,Environmental,Research,Universities
+1666,flow,Geografy/Geophysics/Geology,Research,Universities
+1667,precipitation,Environmental,Data Analysis,Universities
+1668,global simulation,Hidrology,Research,Universities
+1669,flow,Hidrology,Data Analysis,Universities
+1670,precipitation,Agro/Agroindustry/Irrigation,Research,Center Research
+1671,flow,Meteorology,Research,Universities
+1672,precipitation,Energy,Data Analysis,Private sector (companies)
+1674,temperature,Mathematics/Statistics/Modeling,Research,Universities
+1675,temperature,Mathematics/Statistics/Modeling,Research,Universities
+1676,flow,Agro/Agroindustry/Irrigation,Data Analysis,Trade-union associations and other organizations
+1677,temperature,Economy/Sales/trends markets,Data Analysis,Universities
+1678,temperature,Ecology,Research,Universities
+1679,precipitation,Meteorology,Research,Universities
+1680,precipitation,Environmental,Data Analysis,Independent
+1681,precipitation,Tourism,Data Analysis,Private sector (companies)
+1682,precipitation,Geografy/Geophysics/Geology,Data Analysis,Universities
+1683,max/min temperature,Meteorology,Teaching,Universities
+1684,global simulation,Hidrology,Research,Universities
+1685,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Public sector (state agencies)
+1686,precipitation,Hidrology,Engineering projects,Universities
+1687,precipitation,Environmental,Research,Universities
+1688,cr2met,Geografy/Geophysics/Geology,Research,Universities
+1689,flow,Mining,Research,Universities
+1690,flow,Hidrology,Teaching,Universities
+1691,flow,Hidrology,Teaching,Universities
+1692,precipitation,Mathematics/Statistics/Modeling,Teaching,Universities
+1693,precipitation,Hidrology,Data Analysis,Universities
+1694,max/min temperature,Environmental,Research,Universities
+1695,flow,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+1696,flow,Hidrology,Engineering projects,Private sector (companies)
+1697,temperature,Building/Architecture,Engineering projects,Private sector (companies)
+1698,global simulation,Hidrology,Research,Universities
+1699,precipitation,Agro/Agroindustry/Irrigation,Research,Universities
+1700,flow,Hidrology,Research,Universities
+1701,precipitation,Hidrology,Research,Universities
+1702,precipitation,Mathematics/Statistics/Modeling,Research,Universities
+1703,dendro_clima,Meteorology,Research,Universities
+1704,precipitation,Education,Research,Universities
+1705,cr2met,Hidrology,Research,Universities
+1706,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Independent
+1707,flow,Hidrology,Data Analysis,Universities
+1708,temperature,Mathematics/Statistics/Modeling,Teaching,Universities
+1709,precipitation,Communications,Data Analysis,Independent
+1710,camels,Environmental,Research,Center Research
+1711,precipitation,Energy,Teaching,Center Research
+1712,camels,Geografy/Geophysics/Geology,Data Analysis,Universities
+1713,camels,Energy,Engineering projects,Private sector (companies)
+1714,cr2met,Hidrology,Research,Universities
+1715,precipitation,Ecology,Teaching,Universities
+1716,precipitation,Hidrology,Teaching,Universities
+1718,precipitation,Mathematics/Statistics/Modeling,Data Analysis,Universities
+1719,precipitation,Hidrology,Data Analysis,Universities
+1720,precipitation,Building/Architecture,Data Analysis,Universities
+1721,precipitation,Sanitary Services,Engineering projects,Public sector (state agencies)
+1722,flow,Mathematics/Statistics/Modeling,Research,Universities
+1723,temperature,Education,Data Analysis,Independent
+1724,precipitation,Meteorology,Data Analysis,Private sector (companies)
+1725,flow,Hidrology,Data Analysis,Other educational institutions
+1726,flow,Sanitary Services,Data Analysis,Private sector (companies)
+1727,precipitation,Forestry,Engineering projects,Private sector (companies)
+1728,cr2met,Ecology,Research,Public sector (state agencies)
+1729,precipitation,Building/Architecture,Engineering projects,Public sector (state agencies)
+1730,temperature,Meteorology,Data Analysis,Universities
+1731,precipitation,Agro/Agroindustry/Irrigation,Research,Universities
+1732,precipitation,Mining,Engineering projects,Private sector (companies)
+1733,precipitation,Environmental,Data Analysis,Independent
+1735,precipitation,Agro/Agroindustry/Irrigation,Research,Independent
+1736,flow,Hidrology,Data Analysis,Universities
+1737,precipitation,Meteorology,Data Analysis,Private sector (companies)
+1739,flow,Hidrology,Research,Center Research
+1740,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+1741,precipitation,Agro/Agroindustry/Irrigation,Research,Universities
+1742,precipitation,Building/Architecture,Research,Universities
+1743,global simulation,Hidrology,Research,Universities
+1744,temperature,Meteorology,Research,Universities
+1745,flow,Agro/Agroindustry/Irrigation,Data Analysis,Public sector (state agencies)
+1746,flow,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+1747,precipitation,Hidrology,Data Analysis,Universities
+1748,precipitation,Mining,Engineering projects,Private sector (companies)
+1749,max/min temperature,Mining,Data Analysis,Private sector (companies)
+1750,global simulation,GIS/Teledetection,Research,Universities
+1752,precipitation,Economy/Sales/trends markets,Engineering projects,Private sector (companies)
+1753,precipitation,Hidrology,Research,Universities
+1754,precipitation,Agro/Agroindustry/Irrigation,Research,Center Research
+1755,precipitation,Hidrology,Data Analysis,Universities
+1756,precipitation,Hidrology,Teaching,Universities
+1757,precipitation,Hidrology,Research,Universities
+1758,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+1759,precipitation,Education,Data Analysis,Independent
+1760,flow,Sport,Data Analysis,Independent
+1761,precipitation,Education,Research,Other educational institutions
+1762,precipitation,Education,Research,Other educational institutions
+1763,flow,Anthropology,Research,Universities
+1765,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+1766,precipitation,Economy/Sales/trends markets,Research,Universities
+1767,global simulation,Environmental,Teaching,Trade-union associations and other organizations
+1768,precipitation,Mathematics/Statistics/Modeling,Data Analysis,Universities
+1769,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Independent
+1770,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Independent
+1771,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Independent
+1772,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Independent
+1773,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+1774,flow,Fishing/Aquaculture,Research,Public sector (state agencies)
+1776,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+1777,precipitation,Agro/Agroindustry/Irrigation,Research,Private sector (companies)
+1778,cr2met,Environmental,Research,Public sector (state agencies)
+1779,precipitation,Forestry,Teaching,Independent
+1780,precipitation,Forestry,Teaching,Independent
+1781,precipitation,Forestry,Teaching,Independent
+1782,precipitation,Education,Data Analysis,Universities
+1783,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Independent
+1784,precipitation,Building/Architecture,Research,Independent
+1787,cr2met,Meteorology,Data Analysis,Universities
+1788,cr2met,Mathematics/Statistics/Modeling,Data Analysis,Independent
+1795,precipitation,Communications,Engineering projects,Private sector (companies)
+1796,precipitation,Environmental,Teaching,Other educational institutions
+1798,precipitation,Agro/Agroindustry/Irrigation,Research,Private sector (companies)
+1800,flow,Geografy/Geophysics/Geology,Teaching,Universities
+1802,precipitation,Environmental,Engineering projects,Private sector (companies)
+1803,precipitation,Hidrology,Engineering projects,Private sector (companies)
+1804,flow,Fishing/Aquaculture,Research,Universities
+1805,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+1806,temperature,Energy,Data Analysis,Private sector (companies)
+1807,precipitation,Geografy/Geophysics/Geology,Data Analysis,Universities
+1808,precipitation,Meteorology,Data Analysis,Public sector (state agencies)
+1809,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+1810,precipitation,Meteorology,Data Analysis,Independent
+1811,dendro_clima,Hidrology,Data Analysis,Universities
+1812,flow,Environmental,Research,Universities
+1813,flow,Hidrology,Research,Independent
+1814,precipitation,Ecology,Research,Universities
+1815,precipitation,Geografy/Geophysics/Geology,Data Analysis,Universities
+1816,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Independent
+1817,precipitation,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+1818,precipitation,Meteorology,Data Analysis,Universities
+1819,precipitation,Informatics/Computing,Teaching,Universities
+1820,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+1821,cr2met,Geografy/Geophysics/Geology,Research,Universities
+1822,cr2met,Hidrology,Engineering projects,Universities
+1823,cr2met,Paleoclimate,Research,Universities
+1824,flow,Fishing/Aquaculture,Data Analysis,Private sector (companies)
+1825,precipitation,Geografy/Geophysics/Geology,Data Analysis,Universities
+1826,flow,Environmental,Data Analysis,Universities
+1827,flow,Hidrology,Engineering projects,Universities
+1829,precipitation,Communications,Engineering projects,Private sector (companies)
+1830,precipitation,Communications,Engineering projects,Private sector (companies)
+1835,temperature,Medicine,Data Analysis,Universities
+1836,precipitation,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+1837,flow,Environmental,Data Analysis,Universities
+1838,global simulation,Building/Architecture,Research,Universities
+1839,precipitation,Geografy/Geophysics/Geology,Data Analysis,Private sector (companies)
+1840,dendro_clima,Environmental,Data Analysis,Trade-union associations and other organizations
+1842,flow,Geografy/Geophysics/Geology,Data Analysis,Universities
+1843,temperature,Agro/Agroindustry/Irrigation,Data Analysis,Public sector (state agencies)
+1844,flow,Geografy/Geophysics/Geology,Research,Universities
+1845,cr2met,Hidrology,Engineering projects,Universities
+1846,precipitation,Forestry,Data Analysis,Private sector (companies)
+1847,flow,Hidrology,Teaching,Universities
+1848,temperature,Mathematics/Statistics/Modeling,Research,Universities
+1849,flow,Sanitary Services,Engineering projects,Private sector (companies)
+1850,precipitation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+1851,camels,Environmental,Data Analysis,NGO
+1852,flow,Hidrology,Research,Universities
+1854,precipitation,GIS/Teledetection,Data Analysis,Independent
+1855,flow,Energy,Engineering projects,Private sector (companies)
+1856,temperature,Building/Architecture,Engineering projects,Independent
+1857,precipitation,Environmental,Data Analysis,Private sector (companies)
+1858,camels,Hidrology,Research,Universities
+1859,camels,Hidrology,Teaching,Universities
+1860,camels,Hidrology,Research,Universities
+1862,temperature,Education,Research,Universities
+1863,precipitation,Meteorology,Engineering projects,Private sector (companies)
+1864,precipitation,Hidrology,Data Analysis,Universities
+1865,cr2met,Hidrology,Data Analysis,Universities
+1866,precipitation,Hidrology,Data Analysis,Universities
+1869,flow,Hidrology,Engineering projects,Private sector (companies)
+1870,precipitation,Agro/Agroindustry/Irrigation,Engineering projects,Private sector (companies)
+1871,camels,Hidrology,Data Analysis,Public sector (state agencies)
+1872,precipitation,Geografy/Geophysics/Geology,Research,Universities
+1873,cr2met,Mathematics/Statistics/Modeling,Research,Universities
+1874,global simulation,Energy,Research,Universities
+1875,precipitation,Education,Research,Universities
+1876,precipitation,Hidrology,Research,Universities
+1877,flow,Hidrology,Engineering projects,Private sector (companies)
+1878,flow,Energy,Engineering projects,Universities
+1879,flow,Hidrology,Data Analysis,Universities
+1881,precipitation,Environmental,Research,Public sector (state agencies)
+1882,flow,Environmental,Research,Universities
+1883,flow,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+1884,precipitation,Building/Architecture,Data Analysis,Private sector (companies)
+1885,precipitation,Geografy/Geophysics/Geology,Data Analysis,Independent
+1886,precipitation,Mathematics/Statistics/Modeling,Data Analysis,Private sector (companies)
+1887,flow,Geografy/Geophysics/Geology,Research,Universities
+1888,precipitation,Sociology,Research,Universities
+1889,flow,Environmental,Research,Universities
+1890,cr2met,Hidrology,Research,Center Research
+1891,camels,Forestry,Engineering projects,Universities
+1892,global simulation,Geografy/Geophysics/Geology,Research,Universities
+1893,global simulation,Hidrology,Data Analysis,Universities
+1894,precipitation,Environmental,Research,Private sector (companies)
+1895,cr2met,Meteorology,Research,Private sector (companies)
+1896,precipitation,Sanitary Services,Data Analysis,Private sector (companies)
+1897,precipitation,Environmental,Data Analysis,Private sector (companies)
+1898,precipitation,Environmental,Data Analysis,Universities
+1899,temperature,Mathematics/Statistics/Modeling,Research,Universities
+1900,precipitation,Meteorology,Research,Universities
+1901,dendro_clima,Environmental,Data Analysis,Universities
+1902,precipitation,Building/Architecture,Data Analysis,Private sector (companies)
+1903,precipitation,GIS/Teledetection,Data Analysis,Universities
+1905,camels,Geografy/Geophysics/Geology,Data Analysis,Universities
+1906,temperature,Mathematics/Statistics/Modeling,Teaching,Other educational institutions
+1911,cr2met,Hidrology,Engineering projects,Universities
+1912,flow,Meteorology,Research,Universities
+1913,cr2met,Hidrology,Data Analysis,Universities
+1914,camels,Environmental,Data Analysis,Universities
+1915,precipitation,Hidrology,Data Analysis,Universities
+1916,flow,Economy/Sales/trends markets,Research,Universities
+1918,precipitation,Agro/Agroindustry/Irrigation,Research,Universities
+1919,flow,Hidrology,Engineering projects,Independent
+1920,temperature,Environmental,Research,Universities
+1921,flow,Geografy/Geophysics/Geology,Research,Universities
+1922,precipitation,Informatics/Computing,Research,Universities
+1923,flow,Environmental,Research,Public sector (state agencies)
+1924,camels,Hidrology,Data Analysis,Universities
+1925,flow,Environmental,Research,Universities
+1926,cr2met,Economy/Sales/trends markets,Research,Universities
+1927,temperature,Agro/Agroindustry/Irrigation,Research,Universities
+1928,flow,Hidrology,Data Analysis,Universities
+1929,flow,Geografy/Geophysics/Geology,Research,Universities
+1930,precipitation,Hidrology,Data Analysis,Universities
+1931,cr2met,Geografy/Geophysics/Geology,Research,Universities
+1932,flow,Mathematics/Statistics/Modeling,Teaching,Universities
+1933,precipitation,Geografy/Geophysics/Geology,Research,Universities
+1935,cr2met,Geografy/Geophysics/Geology,Teaching,Universities
+1937,precipitation,Hidrology,Data Analysis,Universities
+1938,dendro_peru,Forestry,Research,Universities
+1940,temperature,Forestry,Research,Universities
+1941,temperature,Hidrology,Engineering projects,Universities
+1942,cr2met,Meteorology,Research,Universities
+1943,precipitation,Hidrology,Teaching,NGO
+1944,cr2met,Hidrology,Data Analysis,Universities
+1945,precipitation,Mathematics/Statistics/Modeling,Research,Universities
+1946,precipitation,Hidrology,Data Analysis,Universities
+1947,cr2met,Environmental,Research,Universities
+1948,global simulation,Environmental,Research,Universities
+1949,precipitation,Meteorology,Data Analysis,Universities
+1950,flow,Building/Architecture,Research,Universities
+1951,flow,Education,Data Analysis,Universities
+1952,precipitation,Meteorology,Data Analysis,Public sector (state agencies)
+1953,temperature,Hidrology,Data Analysis,Universities
+1954,precipitation,Environmental,Research,Universities
+1955,cr2met,Geografy/Geophysics/Geology,Research,Universities
+1956,global simulation,Hidrology,Research,Universities
+1957,flow,Geografy/Geophysics/Geology,Data Analysis,Universities
+1958,flow,Geografy/Geophysics/Geology,Data Analysis,Universities
+1959,temperature,Agro/Agroindustry/Irrigation,Data Analysis,Universities
+1960,temperature,Education,Data Analysis,Universities
+1961,camels,Environmental,Data Analysis,Independent
+1962,flow,Forestry,Research,Universities
+1963,precipitation,Economy/Sales/trends markets,Data Analysis,Independent
+1964,flow,Environmental,Engineering projects,Universities
+1966,precipitation,Hidrology,Data Analysis,Universities
+1967,precipitation,Meteorology,Engineering projects,Universities
+1968,precipitation,Agro/Agroindustry/Irrigation,Research,Universities
+1969,flow,Geografy/Geophysics/Geology,Research,Universities
+1970,max/min temperature,Health,Research,Universities
+1971,temperature,Hidrology,Data Analysis,Universities
+1972,precipitation,Hidrology,Data Analysis,Universities
+1973,flow,Hidrology,Research,Universities
+1974,precipitation,Hidrology,Engineering projects,Universities
+1975,temperature,Forestry,Data Analysis,Private sector (companies)
+1976,flow,Hidrology,Research,Universities
+1977,temperature,Geografy/Geophysics/Geology,Engineering projects,Universities
+1978,flow,Education,Teaching,Universities
+1979,max/min temperature,Building/Architecture,Research,Universities
+1980,precipitation,Building/Architecture,Data Analysis,Universities
+1981,temperature,Mathematics/Statistics/Modeling,Data Analysis,Universities
+1982,temperature,Environmental,Research,Universities
+1983,flow,Education,Teaching,Universities
+1984,flow,Environmental,Teaching,Universities
+1985,temperature,Forestry,Data Analysis,Universities
+1986,cr2met,Hidrology,Data Analysis,Universities
+1987,cr2met,Hidrology,Teaching,Universities
+1988,flow,Hidrology,Research,Universities
+1989,temperature,Oceanography,Research,Center Research
+1990,flow,Hidrology,Engineering projects,Universities
+1991,precipitation,Meteorology,Research,Universities
+1992,flow,Hidrology,Engineering projects,Universities
+1993,precipitation,Mathematics/Statistics/Modeling,Data Analysis,Universities
+1994,precipitation,Mining,Engineering projects,Private sector (companies)
+1995,cr2met,Geografy/Geophysics/Geology,Data Analysis,Universities
+1996,cr2met,GIS/Teledetection,Research,Universities
+1997,flow,Energy,Data Analysis,Universities
+1998,precipitation,Environmental,Data Analysis,Universities
+1999,max/min temperature,Geografy/Geophysics/Geology,Research,Universities
+2000,cr2met,Meteorology,Research,Universities
+2001,cr2met,Meteorology,Engineering projects,Universities
+2002,flow,Geografy/Geophysics/Geology,Research,Universities
+2003,flow,Hidrology,Research,Universities
+2004,precipitation,Geografy/Geophysics/Geology,Data Analysis,Universities
+2005,camels,Hidrology,Engineering projects,Private sector (companies)
+2006,flow,Hidrology,Engineering projects,Private sector (companies)
+2007,flow,Geografy/Geophysics/Geology,Research,Universities
+2008,precipitation,Building/Architecture,Research,Universities
+2009,dendro_sada,Environmental,Research,Public sector (state agencies)
+2011,temperature,Environmental,Research,Universities
+2012,precipitation,Environmental,Research,Universities
+2013,temperature,Geografy/Geophysics/Geology,Research,Universities
+2014,precipitation,Building/Architecture,Data Analysis,Universities
+2015,temperature,Forestry,Research,Universities
+2016,cr2met,Hidrology,Engineering projects,Private sector (companies)
+2018,flow,Hidrology,Data Analysis,Universities
+2019,global simulation,Geografy/Geophysics/Geology,Teaching,Other educational institutions
+2020,global simulation,Environmental,Data Analysis,Universities
+2021,temperature,Economy/Sales/trends markets,Research,Universities
+2022,cr2met,Hidrology,Engineering projects,Private sector (companies)
+2023,temperature,Environmental,Engineering projects,Universities
+2024,temperature,Environmental,Data Analysis,Universities
+2025,temperature,Oceanography,Data Analysis,Universities
+2026,cr2met,Agro/Agroindustry/Irrigation,Research,Universities
+2027,flow,Hidrology,Research,Universities
+2028,temperature,Building/Architecture,Data Analysis,Universities
+2029,precipitation,Agro/Agroindustry/Irrigation,Teaching,Other educational institutions
+2030,temperature,Environmental,Research,Universities
+2032,precipitation,Ecology,Data Analysis,NGO
+2033,flow,Hidrology,Research,Universities
+2034,precipitation,Hidrology,Data Analysis,Private sector (companies)
+2035,flow,Sanitary Services,Engineering projects,Independent
+2037,cr2met,Building/Architecture,Data Analysis,Universities
+2038,precipitation,GIS/Teledetection,Research,Universities
+2039,precipitation,Environmental,Data Analysis,Universities
+2040,cr2met,Hidrology,Teaching,Universities
+2041,cr2met,Hidrology,Research,Universities
+2042,cr2met,Hidrology,Data Analysis,Universities
+2043,cr2met,Hidrology,Data Analysis,Universities
+2044,cr2met,Forestry,Research,Universities
+2045,cr2met,Hidrology,Research,Universities
+2046,precipitation,Environmental,Research,Universities
+2047,cr2met,Geografy/Geophysics/Geology,Research,Universities
+2048,flow,Mathematics/Statistics/Modeling,Research,Universities
+2049,precipitation,Hidrology,Research,Universities
+2050,precipitation,Building/Architecture,Research,Universities
+2051,precipitation,Building/Architecture,Engineering projects,Private sector (companies)
+2052,precipitation,Building/Architecture,Engineering projects,Private sector (companies)
+2053,precipitation,Geografy/Geophysics/Geology,Research,Universities
+2054,precipitation,Building/Architecture,Engineering projects,Private sector (companies)
+2055,precipitation,Building/Architecture,Engineering projects,Private sector (companies)
+2056,precipitation,Hidrology,Data Analysis,Universities
+2057,dendro_sada,Environmental,Teaching,Universities
+2058,dendro_sada,Archeology,Research,Center Research
+2059,dendro_sada,Ecology,Teaching,Universities
+2060,dendro_sada,Ecology,Research,Public sector (state agencies)
+2061,dendro_sada,Archeology,Research,Universities
+2062,dendro_sada,Archeology,Research,Center Research
+2063,dendro_sada,Archeology,Research,Universities
+2064,dendro_sada,Anthropology,Research,Universities
+2065,dendro_sada,History,Research,Universities
+2067,dendro_sada,Hidrology,Research,Universities
+2068,dendro_sada,Environmental,Research,Center Research
+2069,dendro_sada,Meteorology,Data Analysis,Public sector (state agencies)
+2070,dendro_sada,Agro/Agroindustry/Irrigation,Research,Universities
+2071,dendro_sada,Ecology,Research,Universities
+2072,dendro_sada,Environmental,Research,Center Research
+2073,dendro_sada,Ecology,Research,Center Research
+2074,dendro_sada,Ecology,Research,Center Research
+2075,dendro_sada,Hidrology,Research,Trade-union associations and other organizations
+2076,dendro_sada,Agro/Agroindustry/Irrigation,Data Analysis,Independent
+2078,dendro_sada,Energy,Teaching,Universities
+2080,dendro_sada,GIS/Teledetection,Research,Center Research
+2082,dendro_sada,Ecology,Research,Universities
+2083,dendro_sada,Mathematics/Statistics/Modeling,Research,Center Research
+2084,dendro_sada,Meteorology,Research,Universities
+2085,dendro_sada,Forestry,Research,Universities
+2086,dendro_sada,Communications,Research,Public sector (state agencies)
+2087,dendro_sada,Environmental,Research,Universities
+2088,dendro_sada,Environmental,Research,Universities
+2089,dendro_sada,Forestry,Research,Center Research
+2090,dendro_sada,GIS/Teledetection,Research,Public sector (state agencies)
+2091,dendro_sada,Agro/Agroindustry/Irrigation,Data Analysis,Independent
+2092,dendro_sada,Forestry,Teaching,Other educational institutions
+2093,dendro_sada,Environmental,Data Analysis,Independent
+2094,dendro_sada,Agro/Agroindustry/Irrigation,Research,Private sector (companies)
+2095,dendro_sada,Hidrology,Data Analysis,Independent
+2096,dendro_sada,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+2097,dendro_sada,Forestry,Data Analysis,NGO
+2098,dendro_sada,Forestry,Data Analysis,Center Research
+2100,dendro_sada,Environmental,Research,NGO
+2101,dendro_sada,Agro/Agroindustry/Irrigation,Teaching,Other educational institutions
+2102,dendro_sada,Forestry,Teaching,NGO
+2103,dendro_sada,Geografy/Geophysics/Geology,Teaching,Universities
+2104,dendro_sada,Environmental,Research,NGO
+2105,dendro_sada,Geografy/Geophysics/Geology,Data Analysis,Independent
+2106,dendro_sada,History,Research,Universities
+2107,dendro_sada,Ecology,Research,Universities
+2108,dendro_sada,Ecology,Teaching,Other educational institutions
+2109,dendro_sada,Ecology,Data Analysis,Universities
+2110,dendro_sada,Forestry,Engineering projects,Public sector (state agencies)
+2111,dendro_sada,Environmental,Research,Private sector (companies)
+2113,dendro_sada,Forestry,Research,Universities
+2114,dendro_sada,Forestry,Research,Universities
+2115,dendro_sada,Forestry,Research,Public sector (state agencies)
+2116,dendro_sada,Geografy/Geophysics/Geology,Data Analysis,Universities
+2117,dendro_sada,Ecology,Research,Universities
+2118,dendro_sada,Hidrology,Research,Universities
+2119,dendro_sada,Oceanography,Research,Center Research
+2120,dendro_sada,Environmental,Data Analysis,NGO
+2121,dendro_sada,Forestry,Data Analysis,Universities
+2122,dendro_sada,Education,Research,Universities
+2123,dendro_sada,Forestry,Teaching,Universities
+2125,dendro_sada,Forestry,Research,Universities
+2126,dendro_sada,Education,Teaching,Universities
+2127,dendro_sada,Tourism,Research,Independent
+2128,dendro_sada,Environmental,Research,Universities
+2129,mma simulation,Environmental,Research,NGO
+2130,mma simulation,Environmental,Research,NGO
+2131,mma simulation,Hidrology,Research,Universities
+2132,mma simulation,Environmental,Data Analysis,Universities
+2133,mma simulation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+2134,mma simulation,Hidrology,Data Analysis,Universities
+2135,mma simulation,Environmental,Data Analysis,Universities
+2136,mma simulation,Agro/Agroindustry/Irrigation,Research,Universities
+2137,mma simulation,Hidrology,Research,Center Research
+2138,mma simulation,Energy,Research,Universities
+2139,mma simulation,Environmental,Research,Universities
+2140,mma simulation,Hidrology,Research,Universities
+2141,mma simulation,Geografy/Geophysics/Geology,Research,Universities
+2142,mma simulation,Hidrology,Research,Universities
+2143,mma simulation,Environmental,Data Analysis,Universities
+2144,mma simulation,Hidrology,Teaching,Universities
+2145,mma simulation,Hidrology,Research,Universities
+2146,mma simulation,Environmental,Research,Universities
+2147,mma simulation,Environmental,Research,Universities
+2148,mma simulation,Meteorology,Research,Center Research
+2149,mma simulation,Geografy/Geophysics/Geology,Research,Universities
+2150,mma simulation,Building/Architecture,Research,Universities
+2151,mma simulation,Energy,Research,Universities
+2152,mma simulation,Geografy/Geophysics/Geology,Research,Center Research
+2153,mma simulation,Hidrology,Research,Universities
+2154,mma simulation,Meteorology,Engineering projects,Private sector (companies)
+2155,mma simulation,Geografy/Geophysics/Geology,Research,Universities
+2156,mma simulation,Geografy/Geophysics/Geology,Data Analysis,Public sector (state agencies)
+2157,mma simulation,Geografy/Geophysics/Geology,Research,Universities
+2158,mma simulation,Environmental,Research,Universities
+2159,mma simulation,Hidrology,Research,Universities
+2160,mma simulation,Environmental,Research,Universities
+2161,mma simulation,Meteorology,Data Analysis,Private sector (companies)
+2162,mma simulation,Forestry,Research,Universities
+2163,mma simulation,Hidrology,Research,Universities
+2164,mma simulation,Geografy/Geophysics/Geology,Data Analysis,Public sector (state agencies)
+2165,mma simulation,Hidrology,Research,Universities
+2166,mma simulation,Meteorology,Research,Universities
+2167,mma simulation,Hidrology,Research,Universities
+2168,mma simulation,Hidrology,Engineering projects,Private sector (companies)
+2169,mma simulation,Ecology,Data Analysis,Universities
+2170,mma simulation,Hidrology,Engineering projects,Private sector (companies)
+2171,mma simulation,Hidrology,Engineering projects,Private sector (companies)
+2172,mma simulation,Hidrology,Engineering projects,Private sector (companies)
+2173,mma simulation,Mining,Research,Universities
+2174,regional simulation,Education,Data Analysis,Universities
+2175,regional simulation,Meteorology,Research,Universities
+2176,regional simulation,Forestry,Data Analysis,Public sector (state agencies)
+2177,regional simulation,GIS/Teledetection,Research,Universities
+2178,regional simulation,Environmental,Research,Universities
+2179,regional simulation,Environmental,Research,Universities
+2180,regional simulation,Oceanography,Research,Universities
+2181,regional simulation,Geografy/Geophysics/Geology,Research,Universities
+2182,regional simulation,Environmental,Data Analysis,Independent
+2183,regional simulation,Ecology,Data Analysis,Universities
+2184,regional simulation,Environmental,Data Analysis,NGO
+2185,regional simulation,Forestry,Research,Universities
+2188,regional simulation,Agro/Agroindustry/Irrigation,Data Analysis,Private sector (companies)
+2189,regional simulation,Building/Architecture,Data Analysis,Universities
+2190,regional simulation,Forestry,Data Analysis,Universities
+2191,regional simulation,Environmental,Research,Universities
+2192,regional simulation,Building/Architecture,Research,Universities
+2193,regional simulation,Geografy/Geophysics/Geology,Research,Universities
+2194,regional simulation,Agro/Agroindustry/Irrigation,Data Analysis,Universities
+2195,regional simulation,Environmental,Data Analysis,Universities
+2196,regional simulation,Hidrology,Research,Universities
+2197,regional simulation,Meteorology,Data Analysis,Public sector (state agencies)
+2198,regional simulation,Public politics,Data Analysis,Public sector (state agencies)
+2200,regional simulation,Environmental,Data Analysis,Universities
+2201,regional simulation,Hidrology,Research,Universities
+2202,regional simulation,Environmental,Research,Universities
+2203,regional simulation,Geografy/Geophysics/Geology,Research,Universities
+2204,regional simulation,Geografy/Geophysics/Geology,Research,Universities
+2206,regional simulation,Geografy/Geophysics/Geology,Research,Universities
+2207,regional simulation,Hidrology,Teaching,Universities
+2208,regional simulation,Hidrology,Data Analysis,Universities
+2209,regional simulation,Meteorology,Research,Center Research
+2210,regional simulation,Environmental,Research,Universities
+2211,regional simulation,Agro/Agroindustry/Irrigation,Research,Universities
+2212,regional simulation,Building/Architecture,Data Analysis,Universities
+2213,regional simulation,Agro/Agroindustry/Irrigation,Research,Private sector (companies)
+2214,regional simulation,Hidrology,Data Analysis,Private sector (companies)
+2215,regional simulation,Environmental,Teaching,Other educational institutions
+2216,regional simulation,Environmental,Teaching,Other educational institutions
+2217,regional simulation,Geografy/Geophysics/Geology,Research,NGO
+2218,regional simulation,Environmental,Engineering projects,Public sector (state agencies)
+2219,regional simulation,Environmental,Research,Universities
+2220,regional simulation,Mathematics/Statistics/Modeling,Data Analysis,Private sector (companies)
+2222,regional simulation,Agro/Agroindustry/Irrigation,Research,Universities
+2223,regional simulation,Forestry,Research,Universities
+2224,regional simulation,Forestry,Research,Universities
+2225,regional simulation,Geografy/Geophysics/Geology,Research,Universities
+2226,regional simulation,Forestry,Research,Universities
+2227,regional simulation,Communications,Data Analysis,Universities
+2228,regional simulation,Environmental,Data Analysis,Universities
+2229,regional simulation,Hidrology,Teaching,Universities
+2230,regional simulation,Hidrology,Data Analysis,Universities
+2231,regional simulation,Energy,Research,Universities
+2232,regional simulation,Industrial,Research,Universities
+2233,regional simulation,Agro/Agroindustry/Irrigation,Research,Universities
+2234,regional simulation,Environmental,Research,Universities
+2235,regional simulation,Geografy/Geophysics/Geology,Data Analysis,Universities
+2236,regional simulation,Environmental,Research,Universities
+2237,regional simulation,Geografy/Geophysics/Geology,Research,Universities
+2238,regional simulation,Fishing/Aquaculture,Research,Universities
+2239,regional simulation,Oceanography,Research,Universities
+2240,regional simulation,Agro/Agroindustry/Irrigation,Research,Public sector (state agencies)
+2241,regional simulation,Medicine,Research,Universities
+2242,regional simulation,Environmental,Research,Universities
+2243,regional simulation,Forestry,Research,Universities
+2244,regional simulation,Geografy/Geophysics/Geology,Research,Universities
+2245,regional simulation,Hidrology,Data Analysis,Universities
+2246,regional simulation,Geografy/Geophysics/Geology,Data Analysis,Universities
+2247,regional simulation,Hidrology,Research,Universities
+2248,regional simulation,Geografy/Geophysics/Geology,Teaching,Universities
+2249,regional simulation,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+2250,regional simulation,Tourism,Research,Universities
+2251,regional simulation,Sanitary Services,Research,NGO
+2252,regional simulation,Geografy/Geophysics/Geology,Data Analysis,Universities
+2254,regional simulation,Mathematics/Statistics/Modeling,Engineering projects,Universities
+2255,regional simulation,Industrial,Engineering projects,Private sector (companies)
+2256,regional simulation,Environmental,Data Analysis,Private sector (companies)
+2257,regional simulation,Hidrology,Research,Universities
+2258,regional simulation,Forestry,Data Analysis,Universities
+2259,regional simulation,Economy/Sales/trends markets,Research,Center Research
+2260,regional simulation,Hidrology,Research,Universities
+2261,regional simulation,Forestry,Data Analysis,Independent
+2262,regional simulation,Meteorology,Teaching,Universities
+2263,regional simulation,Education,Data Analysis,Universities
+2264,regional simulation,Agro/Agroindustry/Irrigation,Research,Universities
+2265,regional simulation,Economy/Sales/trends markets,Data Analysis,Private sector (companies)
+2266,regional simulation,Forestry,Research,Universities
+2267,regional simulation,Forestry,Research,Universities
+2268,regional simulation,Agro/Agroindustry/Irrigation,Engineering projects,Public sector (state agencies)
+2269,regional simulation,Meteorology,Data Analysis,Public sector (state agencies)
+2270,regional simulation,Hidrology,Research,Universities
+2271,regional simulation,Mining,Research,Universities
+2272,regional simulation,Hidrology,Data Analysis,Universities
